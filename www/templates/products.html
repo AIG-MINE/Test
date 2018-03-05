@@ -1,0 +1,177 @@
+<style>
+.md-dialog-container {
+  z-index: 1050;
+}  
+.md-dialog-content .width-100{
+  width: 100%;
+}
+</style>
+
+<section id="head" layout="column" class="fixed-header">
+  <div ng-include="'templates/header.html'" class="header-bg pd8-TB"></div> 
+</section>
+
+
+<section layout="row" flex style="margin-top: 60px;">
+  <md-sidenav layout="column" class="md-sidenav-left" md-component-id="left" md-is-locked-open="$mdMedia('gt-sm')" md-whiteframe="1">
+    <md-content class="" ng-style="{'background-color' : '#F68D4C'}" flex>
+      <!-- <div layout="row" layout-align="center center">
+        <a ui-sref="help-center.category({category : $state.params.category})"> <img ng-src="{{properties.quicko_white_logo}}" alt="Quicko" title="Quicko" class="mrg8-T" style="width:10rem;"> </a>
+      </div> -->
+
+      <!-- <input type="text" name="search" placeholder="Search Here" class="mrg32-TB" ng-model="search" style="border-radius: 6px !important; max-width: 240px; width: 100%; height: 40px; border: 1px solid #C3C4C7; padding: 3px 4px; margin-left : 16px;"> -->
+
+
+      <!-- <md-toolbar class="white-bg-color mrg48-B" layout="row" layout-wrap layout-align="space-around center" hide-gt-sm>
+        <div class="content-category"  ng-style="{'background-color' : '#FFFFFF'}" ng-repeat="category in patcoCategory" ui-sref="products({category: category})"><h2 class="md-subtitle mrg0">{{category}}</h2></div>
+      </md-toolbar> -->
+
+      <md-list ng-cloak class="mrg56-B">
+        
+          <md-list-item aria-label="f" ng-repeat="model in filterModel(products) track by $index" class="animated slideInUp mrg0" ng-class="{'selected-model' : $state.params.model == model, 'white-color' : $state.params.model != model}" ui-sref="products({model : model})">
+            <!-- <md-icon md-svg-icon="help_center_topics_icon:{{topic.icon}}" ng-style="{'color' : (topic.name == $state.params.topic) ? content[$state.params.category].theme : '#FFFFFF'}"></md-icon> -->
+            <a class="md-body-1" aria-label="s" ng-bind="model"></a>
+          </md-list-item>
+        
+      </md-list>
+    </md-content>
+  </md-sidenav>
+  <div layout="column" flex ng-style="!filtered_products.length && { 'height': '75%'}">
+    <md-toolbar class="white-bg-color category-toolbar" layout="row" layout-align-gt-sm="center center" layout-align="start center">
+      <div flex layout="row" hide-gt-sm>
+        <md-button class="md-icon-button" aria-label="menu" data-ng-click="toggleSidenav()" class="pd16-LR">
+          <md-icon md-svg-icon="navigation:ic_menu_24px" class="black-800 size-xs" style="fill : #424242 !important;"></md-icon>
+        </md-button>
+        <div flex align="center">
+          <!-- <a ui-sref="help-center.category({category : $state.params.category})"> <img ng-src="{{properties.quicko_grey_logo}}" alt="Quicko" title="Quicko" class="mrg8-T" style="width:10rem;"> </a> -->
+        </div>
+        <div class="mrg40-L"></div>
+      </div>
+      <div layout="row"  layout-align="space-around center" layout-wrap hide show-gt-sm>
+        <div class="content-category"  ng-class="{'selected-category' : category == $state.params.category}" ng-repeat="category in patcoCategory track by $index" ui-sref="products({category: category, model : ''})"><h2 class="md-subtitle category-type mrg0">{{category}}</h2></div>
+
+        <!-- <div class="content-category" ng-class="{'selected-category' : $state.current.name == 'help-center.search' || $state.current.name == 'help-center.searchResults'}" ng-style="{'background-color' : ($state.current.name == 'help-center.search' || $state.current.name == 'help-center.searchResults') ? '#FFC107' : '#FFFFFF'}" ui-sref="help-center.search({category : $state.params.category})" layout="row">
+          <md-icon md-svg-icon="action:ic_search_24px" ng-style="{'color' : ($state.current.name == 'help-center.search' || $state.current.name == 'help-center.searchResults') ? '#FFFFFF' : '#616161'}"></md-icon>
+          <h2 class="md-subtitle mrg0">Search</h2>
+        </div> -->
+      </div>
+    </md-toolbar>
+
+    <img src="../images/loading-icon.gif" alt="Loader" ng-show="!filtered_products.length && !filtered_products" style="margin:100px auto;" />
+    <div class="pd32-LR">
+      <md-card style="min-height: 100px;" layout="row" class="mrg24-TB md-whiteframe-4dp" ng-if="filtered_products && !filtered_products.length" layout="column" layout-align="center center">No related product available</md-card> 
+      <div ng-if="filtered_products && filtered_products.length">
+        <listing-container ng-repeat="(key, product) in vm.shownItems track by $index">
+          <md-card layout="row" class="mrg24-TB md-whiteframe-4dp" ng-repeat="(key, product) in product track by $index">
+            <img ng-src="{{product.image}}" class="card-image" alt="Product Image">
+            <div layout="row" layout-wrap class="pd24">
+             <!--  <div flex="50">
+                <span class="md-body-2">Modal Name : </span>
+                <span class="md-body-1">{{product.model}}</span>
+              </div> -->
+              <div flex="50" flex-xs="100">
+                <span class="md-body-2">Model no : </span>
+                <span class="md-body-1" ng-repeat="modal in product.modelno track by $index">
+                  <span>{{modal}}</span>
+                  <span ng-if="!$last">,</span>
+                </span>
+              </div>
+
+
+              <div flex="50" flex-xs="100"> 
+                <span class="md-body-2">Bore Ø mm : </span>
+                <span class="md-body-1"><b>{{product.diamm}}</b></span>
+              </div>
+               <div flex="50" flex-xs="100">
+                <span class="md-body-2">Cylinder : </span>
+                <span class="md-body-1">{{product.cylinder}}</span>
+              </div>
+
+
+              <div flex="50" flex-xs="100">
+                <span class="md-body-2">Model : </span>
+                <span class="md-body-1">
+                  <span><b>{{product.model}}</b></span>
+                  <span ng-if="!$last">,</span>
+                </span>
+              </div>  
+
+
+            <!-- <div flex="50" flex-xs="100">
+              <span class="md-body-2">Model : </span>
+              <span class="md-body-1">
+                <span><b>{{product.model}}</b></span>
+                <span ng-if="!$last">,</span>
+              </span>
+            </div> -->
+
+            <div flex="50">
+                <span class="md-body-2">Patco Part No: </span>
+                <span class="md-body-1"><b>{{key}}</b></span>
+             </div>
+
+              <div flex="100">
+                <span class="md-body-2">Ref No : </span>
+                <!-- <span class="md-body-1">{{product.refno}}</span> -->
+                <span class="md-body-1" ng-repeat="refno in product.refno track by $index">
+                  <span>{{refno}}</span>
+                  <span ng-if="!$last">,</span>
+                </span>
+              </div>
+              
+              <p class="mrg0 mrg16-T" style="padding : 4px 16px 2px; background-color: #F68D4C; color: #ffffff; cursor: pointer; border : 1px solid ##F68D4C; border-radius: 15px;" ng-click="openDialog($event,key);">View Quote</p>
+            </div>
+          </md-card>
+        </listing-container>
+        <md-collection-pagination collection="filtered_products" paginated-collection="vm.shownItems" per-page="10" class="mrg16-B"></md-collection-pagination>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- <section id="search_and_download" layout="row" style="min-height: 150px;">
+  <div flex-gt-sm="100" flex="100" layout="column" layout-align="center center" style="background-color: #29303a;">
+    <div>
+      <p class="white-color mrg8-TB">Product Search</p>
+      <div layout="row">
+        <input type="text" name="search1" style="max-width : 140px; margin-right: 6px; border-radius: 10px; padding: 8px; font-size: 12px; height: 24px;">
+        <input type="text" name="search2" style="max-width : 90px; margin-right: 6px; border-radius: 10px; padding: 8px; font-size: 12px; height: 24px;">
+        <input type="text" name="search3" style="max-width : 90px; margin-right: 6px; border-radius: 10px; padding: 8px; font-size: 12px; height: 24px;">
+        <input type="text" name="search4" style="max-width : 90px; margin-right: 6px; border-radius: 10px; padding: 8px; font-size: 12px; height: 24px;">
+        <md-button style="margin-right: 6px; border-radius: 10px;  font-size: 12px; height: 24px; background: #F68D4C;">Search</md-button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section layout="row" flex>
+    <md-sidenav
+        class="md-sidenav-left"
+        md-component-id="left"
+        md-is-locked-open="$mdMedia('gt-md')"
+        md-whiteframe="4">
+      <md-content layout-padding ng-controller="productsController">
+        <md-list-item class="md-3-line" ng-repeat="category in patcoCategory" ng-click="null" ui-sref="products({category: category})">
+          <div class="md-list-item-text" layout="column">
+            <p class="md-body-1" ng-bind="category"></p>
+          </div>
+        </md-list-item>
+      </md-content>
+    </md-sidenav>
+
+      <div flex-gt-md="5" flex-md="10" flex-sm="10"></div>
+      <div flex>
+        <div layout="row" layout-align="space-around" layout-wrap class="mrg40-TB">
+          <div flex-gt-sm="30" flex-sm="45" flex="100" layout="row" class="pd16-LR mrg24-TB" ng-repeat="product in products" ng-if=" filterProducts(product.category, $state.params.category) == true" align="center">
+            <span>
+              hello
+            </span>
+          </div>
+        </div>
+      </div>
+</section> -->
+  <!-- position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0; -->
+<section id="footer" ng-include="'templates/footer.html'"></section> 

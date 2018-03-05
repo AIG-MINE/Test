@@ -1,0 +1,286 @@
+/*
+@font-face {
+    font-family: AvenirNext-Bold;
+    src: url(AvenirNextLTPro-Bold.otf);
+    font-weight: 400;
+    font-style: normal
+}
+*/
+@font-face {
+    font-family: AvenirNext-Regular;
+    src: url(AvenirNextLTPro-Regular.otf);
+    /*src: url('new_fonts/Aver Bold.ttf');  */
+    /*src: url('new_fonts/Aver.ttf');*/
+    /*src: url('new_fonts/Aver Italic.ttf'); */
+    /*src: url('new_fonts/Aver Bold Italic.ttf');*/ 
+    font-weight: 400;
+    font-style: normal
+}
+
+html {
+  font-family:  'AvenirNext-Regular', sans-serif;
+}
+
+.menu-item a.white {
+  color: #2a3039 !important;
+    font-size: 16px;
+    padding: 12px;
+    font-family:400;
+    text-transform: capitalize !important;
+}
+.menu-item a.white:hover,.menu-item a.white:active {
+  color: #ff6702 !important;
+}
+
+.about-more-btn,.product-more-btn {
+  transition: all .7s;
+}
+.about-more-btn:hover, .about-more-btn:active, .about-more-btn:focus {
+    background-color: #fff;
+    color: rgba(0, 132, 202, .7) !important;
+    transition: all .7s;
+}
+.product-more-btn:hover, .product-more-btn:active, .product-more-btn:focus {
+    background-color: rgba(0, 132, 202, .7);
+    color: #fff !important;
+    transition: all .7s;
+    border: 1px solid #fff!important ;
+}
+.head-after:after{
+    width: 140px;
+    height: 2px;
+    background: #0089D0;
+    display: block;
+    content: '';
+    margin: 15px auto 0;
+}
+.head-after-white:after{
+  background: #fff;
+  width: 90px;
+}
+.about{
+  background: url(../images/banner/imgpsh_fullsize.jpg) no-repeat;
+  background-size: cover;
+}
+.about-pad{
+  padding: 50px 20% 65px; color: #FFF
+}
+
+.fw-300{
+  font-weight: 300;
+}
+.cursor-pointer:hover{
+  cursor: pointer;
+}
+.container {
+  max-width: 1170px!important;
+  width: 100%!important;
+  padding-left: 15px!important;
+  padding-right: 15px!important
+}
+.product {
+  font-size: 16px
+}
+.fixed-header{
+  position: fixed;
+  z-index: 1050;
+  left: 0;
+  right: 0;
+  border-bottom: 1px solid #ddd;
+  /*border-top: 4px solid #0089D0!important;*/
+}
+.header-bg {
+  background-color: #fff !important;
+}
+.cover-image{
+  /*height: 90%;
+  overflow: hidden;
+  background-size: 100% 100% !important;*/
+}
+.cover-image.home{
+  background: url("../images/banner/home-page-banner-1.jpg") center center no-repeat ;
+}
+.cover-image.about{
+  background: url("../images/banner/imgpsh_fullsize.jpg")  no-repeat ;
+}
+.cover-image.contact{
+  background: url("../images/banner/Contact-Banner.jpg")  no-repeat ;
+}
+.menu-item{
+  margin-right: 1.6rem;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.menu-item a.white{
+  color: #000000 !important;
+  font-weight: 500 !important;
+}
+
+.slider-with-input .editable {
+    padding: 0.5rem 0;
+    margin: 0 auto;
+    transition: all .2s ease;
+}
+.google-maps {
+        position: relative;
+        padding-bottom: 75%;
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+/*** help-center css start ***/
+.modal-container md-toolbar.md-default-theme:not(.md-menu-toolbar), .modal-container md-toolbar:not(.md-menu-toolbar){
+  background-color: #F68D4C !important;  
+ }
+.category-toolbar{
+  min-height: 96px;
+  border-bottom:1px solid #ddd;
+}
+.content-category{
+/*  min-width: 128px;
+  text-align: center;
+  border : 1px solid #ddd;
+  border-radius: 25px;
+  cursor: pointer;
+  margin: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #fff;
+  color: #616161;
+  text-transform: uppercase;*/
+  text-align: center;
+  border : 1px solid #ddd;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #fff;
+  color: #616161;  
+  width: auto;
+  text-transform: capitalize !important;
+}
+.category-type{
+  font-size: 1.6em;
+  font-weight: 500;
+}
+.content-category:not(.selected-category):hover{
+  background-color: #ddd !important;
+}
+.selected-category{
+  background-color: #F68D4C;
+  color: #ffffff;
+}
+.selected-model{
+  background: #FFF;
+  color: #212121 !important;
+  font-weight: 900 !important;
+}
+
+md-list-item a.md-button{
+  margin: 0px;
+}
+md-sidenav {
+  max-width: 280px;
+}
+
+/*** Media Query ***/
+@media(min-width:600px) and (max-width:959px) {
+  .cover-image.home .banner-content{
+    margin:0px;
+    padding-right: 0;
+    margin-top: 32px;
+  }
+}
+@media(max-width:599px) {
+  .cover-image.home .banner-content{
+    margin:0px;
+    padding-right: 0;
+    margin-top: 32px;
+  }
+}
+
+.gridListdemoBasicUsage md-grid-list {
+  margin: 8px;
+}
+
+.gridListdemoBasicUsage .gray {
+  background: #f5f5f5;
+}
+
+.gridListdemoBasicUsage md-grid-tile {
+  transition: all 400ms ease-out 50ms;
+}
+
+/******* Plan css start ******/
+/*.coverflow-container.plan-coverflow-container{
+  height: 52rem; 
+  margin: 0 auto; 
+  position: relative; 
+  overflow: hidden; 
+  z-index: 1;
+}*/
+.coverflow-container.plan-coverflow-container {
+  width:36rem;
+  height: 50rem;
+}
+.swiper-container.plan-swiper-container{
+  height: 312px;
+}
+
+/******* Plan css end ******/
+
+.swiper-container {
+  width: 100%;
+  height: 85%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  
+}
+
+.read-more-blue a, .read-more-blue a:hover {
+    color: #0089D0;
+    border: 1px solid #0089D0;
+    font-weight: 300;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+.read-more-white a, .read-more-white a:hover {
+    color: #fff;
+    border: 1px solid #fff;
+    font-weight: 300;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+
+.product-banner {
+  background: url(../images/banner/Product-page-Banner3.jpg)  no-repeat;
+}
+.product-img {
+  margin: 0 auto 10px;
+}
+
+.no-style {
+  list-style: none;
+}
+
+#google_translate_element .goog-te-gadget-icon, .goog-te-gadget-icon{
+  display: none;
+}
+
+#google_translate_element .goog-te-gadget-simple, .goog-te-gadget-simple{
+  border-radius: 4px;
+  border-color: #ddd;
+}

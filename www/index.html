@@ -1,0 +1,91 @@
+<html ng-app="patcoApp" lang="en" ng-controller="appController">
+
+<head>
+    <meta charset="utf-8">
+    <!-- <base href="/patco_website/www/"> -->
+    <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
+    <!-- <META NAME="Title" CONTENT="PATCO LINERS PVT. LTD."> -->
+    <META NAME="Author" CONTENT="Kaushal Patel">
+    <META NAME="Subject" CONTENT="Cylinder Liners">
+    <!-- <META NAME="Description" CONTENT="Centrifugal cylinder liners & sleeves as per orogonal equipment specification">
+    <META NAME="Keywords" CONTENT="cylinder liners, centrifugal cylinder liners & sleeves,patco liners vt. ltd.,patco cylinder liner,ford,indian models,tata,toyoto,hino,daihatsu,komatsu,kubota,mitsubishi,yanmar,peugoet,daf,land rover,mack,perkins,nissan,mazada,isuzu,"> -->
+    <title ng-bind="meta[$location.path()].title"></title>
+    <meta name="keywords" content="{{meta[$location.path()].keywords}}"/>
+    <meta name="description" content="{{meta[$location.path()].description}}"/>
+
+    <meta charset="utf-8" />   
+    <!-- <TITLE>PATCO LINERS PVT LTD.</TITLE> -->
+
+    <link rel='shortcut icon' href='favicon.ico' type='image/x-icon' />
+    
+    <!-- Angular Material style sheet -->
+    <link rel="stylesheet" href="libs/css/angular-material/angular-material.min.css">
+
+    <!--<link rel="stylesheet" href="css/main.css"> -->
+    <link rel="stylesheet" href="css/main.min.css"> 
+
+    <!--<link rel="stylesheet" href="css/common.css">-->
+    <link rel="stylesheet" href="css/common.min.css"> 
+
+    <link rel="stylesheet" href="css/swiper.min.css">
+    
+    <!--Start of Zendesk Chat Script-->
+    <script type="text/javascript">
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+    d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+    _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+    $.src="https://v2.zopim.com/?5Ti3LfFldQMLTO8wz7e6yxd2u8GFLsTs";z.t=+new Date;$.
+    type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+    </script>
+    <!--End of Zendesk Chat Script-->
+</head>
+
+<body ng-controller="appController" ng-cloak layout="row">
+    <!-- sidenav -->
+    <div layout="column" ng-include="templates/sidenav.html" hide-gt-sm></div>
+    <!-- content -->
+    <div layout="column" layout-fill>
+        <md-content id="container" du-scroll-container md-scroll-y ui-view flex style="z-index: 100 !important;"></md-content>
+    </div>
+    <!-- Angular Material requires Angular.js Libraries -->
+    <script type="text/javascript" src="libs/js/angularjs/angular.min.js"></script>
+    <script type="text/javascript" src="libs/js/angularjs/angular-animate.min.js"></script>
+    <script type="text/javascript" src="libs/js/angularjs/angular-aria.min.js"></script>
+    <script type="text/javascript" src="libs/js/angularjs/angular-messages.min.js"></script>
+    <script type="text/javascript" src="libs/js/angularjs/angular-ui-router.min.js"></script>
+    <!-- Angular Material Library -->
+    <script type="text/javascript" src="libs/js/angular-material/angular-material.min.js"></script>
+    <script type="text/javascript" src="libs/js/angular-scroll/angular-scroll.min.js"></script>
+    <script type="text/javascript" src="js/md-collection-pagination.min.js"></script>
+    <script type="text/javascript" src="js/swiper.min.js"></script>
+    
+    <script type="text/javascript" src="js/services.js"></script>
+    <script type="text/javascript" src="js/controller.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/filter.js"></script>
+    <script type="text/javascript" src="js/metadata.js"></script>
+    <!-- <script type="text/javascript" src="js/combine.js"></script> -->
+    <!-- <script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+    }
+    </script>
+
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
+
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false},'google_translate_element');
+    }
+
+    (function() {
+      var googleTranslateScript = document.createElement('script');
+      googleTranslateScript.type = 'text/javascript';
+      googleTranslateScript.async = true;
+      googleTranslateScript.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( googleTranslateScript );
+    })();
+    </script>     
+</body>
+
+</html>

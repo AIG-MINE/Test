@@ -1,0 +1,35 @@
+<md-sidenav class="md-sidenav-left md-whiteframe-z2" md-component-id="left">
+  <md-toolbar class="md-theme-indigo md-tall">
+    <div layout="row" layout-align="center center" flex>
+      <a ui-sref="home"><img src="images/logo.png" alt="Patco Linears" style="max-width: 30rem;"></a>
+    </div>
+  </md-toolbar>
+  <md-content class="pd32-TB">
+    <md-list ng-cloak>
+      <md-list-item ui-sref="home" ng-click="closeSidenav()">
+        <md-icon md-svg-icon="images/icons/ic_home_24px.svg"></md-icon>
+        <p>Home</p>
+      </md-list-item>
+
+      <md-list-item ui-sref="about-us" ng-click="closeSidenav()">
+        <md-icon md-svg-icon="images/icons/ic_business_24px.svg"></md-icon>
+        <p>About Us</p>
+      </md-list-item>
+
+      <md-list-item ui-sref="product" ng-click="closeSidenav()">
+        <md-icon md-svg-icon="images/icons/ic_store_24px.svg"></md-icon>
+        <p>Products</p>
+      </md-list-item>
+
+      <md-list-item ui-sref="products" ng-click="closeSidenav()">
+        <md-icon md-svg-icon="images/icons/ic_store_24px.svg"></md-icon>
+        <p>Search</p>
+      </md-list-item>
+
+      <md-list-item ui-sref="contact-us" ng-click="closeSidenav()">
+        <md-icon md-svg-icon="images/icons/ic_location_on_24px.svg"></md-icon>
+        <p>Contact Us</p>
+      </md-list-item>
+    </md-list>
+  </md-content>
+</md-sidenav>

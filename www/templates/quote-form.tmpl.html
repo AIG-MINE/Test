@@ -1,0 +1,47 @@
+
+
+<md-dialog aria-label="Quote" class="modal-container">
+  <form name="quoteForm" ng-submit="quoteForm.$valid && submitQuote(quoteForm)" autocomplete="off" novalidate>
+    <md-toolbar>
+      <div class="md-toolbar-tools">
+        <h2>Details</h2>
+        <span flex></span>
+        <md-button class="md-icon-button" aria-label="s" ng-click="cancel()">
+          <img src="../images/cancel-icon.png" height="20" />
+        </md-button>
+      </div>
+    </md-toolbar>
+
+    <md-dialog-content>
+      <div class="md-dialog-content">
+          <md-input-container class="width-100">
+            <label>Email</label>
+            <input ng-model="form_obj.email" type="email" required md-no-asterisk name="email">
+            <div ng-messages="quoteForm.email.$error">
+              <div ng-message="required">Please provide the valid email address</div>
+            </div>            
+          </md-input-container>
+          <md-input-container class="width-100">
+            <label>Quantity</label>
+            <input ng-model="form_obj.quantity" required md-no-asterisk name="quantity" onkeypress='return event.charCode >= 48 && event.charCode <= 57'>
+            <div ng-messages="quoteForm.email.$error">
+              <div ng-message="required">Please provide the quantity</div>
+            </div>                        
+          </md-input-container>
+          <md-input-container class="width-100">
+            <label>Description</label>
+            <input ng-model="form_obj.description">
+          </md-input-container>
+        </div>
+    </md-dialog-content>
+    <md-dialog-actions layout="row">
+      <md-button class="white-color theme-bg-color md-raised md-button md-ink-ripple" type="submit">
+       Submit
+      </md-button>
+      <md-button ng-click="cancel();">
+        Cancel
+      </md-button>
+    </md-dialog-actions>
+  </form>
+</md-dialog>
+

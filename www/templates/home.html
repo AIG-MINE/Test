@@ -1,0 +1,217 @@
+<section id="head" layout="column" class="fixed-header">
+	<div ng-include="'templates/header.html'" class="header-bg pd8-TB"></div> 
+</section>
+
+<section id="banner" layout="row" class="push-60-t">
+	<div flex="100">
+		<!-- <div flex></div> -->
+		<!-- <div flex layout="column"  layout-align="center center" align="center" class="white-color">
+			<h1 class="md-display-1 mrg8-T mrg0-B" style="color: #29303a;">LOREM IPSUM DOLOR SIT AMET, <br>CONSECTETUR ADIPISCING ELIT</h1>
+			<h3 class="md-body-1 mrg8-T">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br>
+			tempor incididunt ut labore et dolore magna aliqua.</h3>
+		</div> -->
+		<div class="swiper-container" ng-controller="swiperController">
+	        <div class="swiper-wrapper">
+	            <div class="swiper-slide img-pos" ng-repeat="homeCarausel in homeCarausels" data-swiper-autoplay="4000">
+	            	<img ng-src="{{homeCarausel.image}}" alt="">
+	            	<div class="img-desc" hide-xs hide-sm>
+		            	<h3>{{homeCarausel.title}}</h3>
+		            	<p>{{homeCarausel.description}}</p>
+	            	</div>
+	            </div>
+	        </div>
+	        <!-- Add Pagination -->
+	        <!--<div class="swiper-pagination"></div>-->
+	        <!-- Add Arrows -->
+	        <div class="swiper-button-next"></div>
+	        <div class="swiper-button-prev"></div>
+    	</div>
+	</div> 
+</section>
+
+<!-- <section id="search_and_download" layout="row" style="min-height: 150px;">
+	<div flex-gt-sm="50" flex="100" layout="column" layout-align="center center" style="background-color: #29303a;">
+		<div>
+			<p class="white-color mrg8-TB">Product Search</p>
+			<div layout="row">
+				<input type="text" name="search1" style="max-width : 140px; margin-right: 6px; border-radius: 10px; padding: 8px; font-size: 12px; height: 24px;">
+				<input type="text" name="search2" style="max-width : 90px; margin-right: 6px; border-radius: 10px; padding: 8px; font-size: 12px; height: 24px;">
+				<input type="text" name="search3" style="max-width : 90px; margin-right: 6px; border-radius: 10px; padding: 8px; font-size: 12px; height: 24px;">
+				<input type="text" name="search4" style="max-width : 90px; margin-right: 6px; border-radius: 10px; padding: 8px; font-size: 12px; height: 24px;">
+			</div>
+		</div>
+	</div>
+	<div flex-gt-sm="50" flex="100" layout="column" layout-align="center center" style="background-color: #454f5d;">
+		<md-button style="color: #fff;">E-BROUCHER</md-button>
+	</div>
+</section> -->
+
+<section layout="row">
+	<div flex-gt-md="15" flex-md="10" flex-sm="10"></div>
+	<div layout="column" layout-align="center center">
+		<h1 class="md-display-1 head-after text-center pad0-10">Wide Range of Cylinder Liners &amp; Sleeves</h1>
+		<img ng-src="images/banner/Product.jpg" style="display: block;max-width: 100%;height: auto;margin: 0 auto;">
+		<h2 class="head-font push-70-t push-20-t-r md-title head-after">Cylinder Liners &amp; Sleeves</h2>
+		<p class="para-l-height md-body-1 pd0-TB mrg0-TB width-r-70 head-desc">We have developed an extensive range of engine components, that meet the international standards of OEMs as well as the global Replacement Market. Our engine components are used in leading Indian, American, Japanese, German and other European automobile models. All our products are made exactly as per original specifications, dimensionally and metallurgically.</p><br>
+		<div class="read-more-blue push-70-b push-20-b-r">
+			<a class="product-more-btn" ui-sref="product">Read more</a>
+		</div>
+	</div>
+	<div flex-gt-md="15" flex-md="10" flex-sm="10"></div>
+</section>
+
+<!-- <section id="usps" layout="row" style="background: #f2f2f2;" class="mrg40-T">
+	<div flex-gt-md="15" flex-md="10" flex-sm="10"></div>
+	<div flex>
+		<div layout="row" layout-align="space-around" layout-wrap class="mrg40-TB">
+			<div flex-gt-sm="30" flex-sm="45" flex="100" layout="column" class="pd16-LR mrg24-TB" ng-repeat="usp in usps" align="center">
+				<span class="services-sprite {{service.icon}}"></span>
+				<img ng-src="{{usp.image}}" style="padding:15px;">
+				<span class="md-title fw-500 grey-color" ng-bind="usp.title"></span>
+				<span class="md-body-1 grey-color" ng-bind="usp.description"></span>
+			</div>
+		</div>
+	</div>
+	<div flex-gt-md="15" flex-md="10" flex-sm="10"></div>
+</section> -->
+
+<section id="searchByType" layout="row" layout-wrap>
+	<div flex-xs="100" flex-sm="50" flex="33" class="cursor-pointer" ng-repeat="type in searchType" ng-mouseover="type.show = true" ng-mouseleave="type.show = false" style="position : relative;" ui-sref="products({category: {{'type.url'}}})">
+			<img ng-src="{{type.image}}" class="img-w100">
+			<div layout="column" layout-align="center center" style="position: absolute; top : 0; bottom : 0; left : 0; right :0; background-color: rgba(255, 112, 67, 0.8);" ng-show="type.show">
+				<p class="white-color md-headline">{{type.name}}</p>
+			</div>
+		</a>
+	</div>
+</section>
+
+<section>
+	<div class="about">
+		<div data-stellar-background-ratio="0.4" style="">
+			<div class="about-bg-img">
+				<div layout="column" class="about-pad" layout-align="center center">
+					<div class="about text-center">
+						<h2 class="head-font md-title head-after head-after-white push-20-t-r" align="center">About Patco</h2>
+						<p class="md-body-1 para-l-height head-desc">
+						Patco Liners Pvt. Ltd. is an ISO 9001:2015 certified leading manufacturer and exporter
+						of Wet &amp; Dry Cylinder Liners, Sleeves, Air – Water Cooled Blocks &amp; Valve train
+						components for automobile , Tractor , Truck , Generator and industrial engine
+						applications. We are in this business for past 23 years and now produce over 1.10 million cylinder
+						liners per year.</p>
+						<div class="read-more-white">
+							<br>
+							<a class="about-more-btn" ui-sref="about-us">Read more</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- <section id="manufacturingProcess" class="pd40-TB">
+	<p class="md-title mrg8-B" align="center">Manufacturing Process for Cylinder Liners and Cylinder Sleeves</p>
+	<p class="md-body-1 mrg0-T" align="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor<br> incididunt ut labore et dolore magna aliqua.</p>
+	<div layout="row" layout-align="center">
+		<div flex="90">
+			<div layout="row" class="grey-bg-color">
+				<div flex ng-repeat="process in manufacturingProcess" ng-mouseover="process.isSelected = true" ng-mouseleave="process.isSelected = false" ng-class="{'deep-orange-bg-color' : process.isSelected}" style="background-color: #e9e7e8;">
+					<p class="mrg8-TB pd8-LR" style="font-size: 14px;font-weight: 500;"><b>{{process.name}}</b></p>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<div layout="row" layout-align="center">
+		<div flex="90">
+			<div layout="row" class="grey-bg-color">
+				<div layout="row" flex ng-repeat="process in manufacturingProcess" ng-if="process.isSelected" style="background-color: #f4f4f4;">
+					<img ng-src="{{process.image}}">
+					<div layout="column" class="pd32">
+						<p class="md-title fw-500 mrg8-TB" ng-bind="process.name"></p>
+						<p class="md-body-1" ng-bind="process.description"></p>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section> -->
+
+<!-- <section id="gallery">
+  <div id="section-3" layout="column" layout-align="center center" class="mrg64-T">
+    <h2 class="md-display-1 black-800 mrg32-T mrg8-B light-fw">Gallery</h2>
+    <p class="md-caption black-800 mrg0-T mrg16-B" align="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+    <div layout="row" layout-align="start center" class="mrg40-TB">
+      <div class="coverflow-container plan-coverflow-container" ng-controller="coverFlowController">
+        <div class="swiper-wrapper">          
+          <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/1)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/2)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/3)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/4)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/5)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/6)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/7)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/8)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/9)"></div>
+            <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/10)"></div>
+        </div>        
+      </div>    
+    </div>
+  </div>
+</section> -->
+
+<!-- <section id="news & event" class="pd40-TB">
+	<div layout="column" layout-align="center center" class="pd40-TB" style="background-color: #244771">
+		<p class="md-title mrg0-B white-color" align="center">News & Events</p>
+		<p class="md-body-1 mrg8-T pd0-T white-color" align="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+	</div>
+
+	<div layout="row">
+		<img src="../images/news-event/n1.png" flex>
+		<div layout="column" flex style="background-color: #385d87">
+			<p class="md-title white-color mrg0-TB pd16-T pd24-LR">Lorem ipsum dolor sit consectetur adipisicing</p>
+			<p class="md-body-1 white-color pd24-LR">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+		</div>
+		<img src="../images/news-event/n2.png" flex>
+		<div layout="column" flex style="background-color: #385d87">
+			<p class="md-title white-color mrg0-TB pd16-T pd24-LR">Lorem ipsum dolor sit consectetur adipisicing</p>
+			<p class="md-body-1 white-color pd24-LR">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+		</div>
+	</div>
+	<div layout="row">
+		<div layout="column" flex style="background-color: #385d87">
+			<p class="md-title white-color mrg0-TB pd16-T pd24-LR">Lorem ipsum dolor sit consectetur adipisicing</p>
+			<p class="md-body-1 white-color pd24-LR">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+		</div>
+		<img src="../images/news-event/n3.png" flex>
+		<div layout="column" flex style="background-color: #385d87">
+			<p class="md-title white-color mrg0-TB pd16-T pd24-LR">Lorem ipsum dolor sit consectetur adipisicing</p>
+			<p class="md-body-1 white-color pd24-LR">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+		</div>
+		<img src="../images/news-event/n4.png" flex>
+	</div>
+</section> -->
+
+<section id="inquiry" ng-include="'templates/inquiry.html'"></section>
+
+<section id="map" ng-include="'templates/map.html'"></section>
+
+<section class="white-color" id="since_patco" layout="row" style="min-height: 100px; background-color: #ff6702;padding: 0px 0 15px 0;">
+	<div  flex="100" layout="row" layout-wrap>
+		<div flex-xs="100" flex="33" layout="column" layout-align="center center" class="push-20-b-r">
+			<h2>Since <span id="since">1994</span></h2>
+			<span>23+ years of excellence</span>
+		</div>
+		<div flex-xs="100" flex="33" layout="column" layout-align="center center" class="push-20-b-r">
+			<h2><span id="million">43</span>+ Million</h2>
+			<span>Pieces delivered</span>
+		</div>
+		<div flex-xs="100" flex="33" layout="column" layout-align="center center">
+			<h2><span id="brands">70</span>+ Brands</h2>
+			<span>Served worldwide</span>
+		</div>
+	</div>
+</section>
+
+<section id="footer" ng-include="'templates/footer.html'"></section>

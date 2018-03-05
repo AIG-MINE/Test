@@ -1,0 +1,6628 @@
+	{
+		"PL-S-1001": {
+			"model": "AEC",
+			"modelno": ["AH505","AV505"],
+			"cylinder" : "6",
+			"diamm": "115.999",
+			"refno" : ["SJ351154","SU546401","SY546402"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1002": {
+			"model": "AEC",
+			"modelno": ["AH505","AV505"],
+			"cylinder" : "6",
+			"diamm": "115.999",
+			"refno" : ["SJ351154","SU546401","SY546402"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1003": {
+			"model": "AEC",
+			"modelno": ["AH691","AV691"],
+			"cylinder" : "6",
+			"diamm": "130.000",
+			"refno" : ["SU567303"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1004": {
+			"model": "AEC",
+			"modelno": ["AH760","AV760"],
+			"cylinder" : "4",
+			"diamm": "136.538",
+			"refno" : ["SJ351142","SU567401"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1005": {
+			"model": "AEC",
+			"modelno": ["L 12","TL 12"],
+			"cylinder" : "6",
+			"diamm": "135.380",
+			"refno" : ["SY351138","SJ351245"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1006": {
+			"model": "AUDI",
+			"modelno": ["100.2.0 D"],
+			"cylinder" : "",
+			"diamm": "76.500",
+			"refno" : ["14-021571-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1007": {
+			"model": "AUDI",
+			"modelno": ["100 AVANT 2.0D,80-1.6D"],
+			"cylinder" : "4/5",
+			"diamm": "76.500",
+			"refno" : ["14-028360-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1008": {
+			"model": "AUDI",
+			"modelno": ["A4.19TDI,A6 1.9D,2.4TDI"],
+			"cylinder" : "4/5",
+			"diamm": "76.500",
+			"refno" : ["14-027950-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1009": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["A SERIES,MINI 850/MK II,CITY,SDL,95VAN"],
+			"cylinder" : "4",
+			"diamm": "62.916",
+			"refno" : ["SU2893"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1010": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["A SERIES,MINI 1000/MK II,CITY,SDL,95VAN"],
+			"cylinder" : "4",
+			"diamm": "64.567",
+			"refno" : ["SU3367"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1011": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["A SERIES,A40 MK II 100,ALLEGRO,HEALEY,MINI COOPER"],
+			"cylinder" : "4",
+			"diamm": "70.620",
+			"refno" : ["SU3598"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1012": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["1.5 LITRE,A60 CAMBBRIGE,J2M16 JU250 1.5 LITS"],
+			"cylinder" : "4",
+			"diamm": "73.012",
+			"refno" : ["SU498901"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1013": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["B SERIES,A50 CAMBRIGGE,J4 10/15"],
+			"cylinder" : "4",
+			"diamm": "73.023",
+			"refno" : ["SU2447"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1014": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["B SERIES","460"],
+			"cylinder" : "4",
+			"diamm": "76.187",
+			"refno" : ["SU3270"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1015": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["E SERIES","O H C / ALLEGRO 3 1.7","MAXI 1750 HL"],
+			"cylinder" : "4",
+			"diamm": "76.200",
+			"refno" : ["SU4245"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1016": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["B SERIES","1800 MK I","C..9.1/9.5.1","1800HL"],
+			"cylinder" : "4",
+			"diamm": "80.251",
+			"refno" : ["SU3588","SU351084"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1017": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["22U","TAXICAB FX3D,FX4","LD-M20","GYPSY 2.1-1.5TON"],
+			"cylinder" : "4",
+			"diamm": "82.550",
+			"refno" : ["SJ221802","SU221801"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1018": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["O SERIES","O H C","HL","HLS"],
+			"cylinder" : "4",
+			"diamm": "84.432",
+			"refno" : ["SU4279"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1019": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["EA SERIE","25U"],
+			"cylinder" : "4",
+			"diamm": "84.938",
+			"refno" : ["SU3969"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1020": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["EA SERIE"],
+			"cylinder" : "4",
+			"diamm": "88.900",
+			"refno" : ["SU584001"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1021": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["METROPOLITAN","TAXI"],
+			"cylinder" : "4",
+			"diamm": "90.470",
+			"refno" : ["14-024710-00","14-010920-00"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1022": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["OEA/OEB"],
+			"cylinder" : "4/6",
+			"diamm": "95.001",
+			"refno" : ["SJ259100","SJ259102"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1023": {
+			"model": "AUSTIN/MORRIS",
+			"modelno": ["OEE/OEJ"],
+			"cylinder" : "4/6",
+			"diamm": "100.000",
+			"refno" : ["SJ590701"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1024": {
+			"model": "ALFA ROMEO",
+			"modelno": ["GIULIA-1.8D"],
+			"cylinder" : "4",
+			"diamm": "79.380",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1025": {
+			"model": "ALFA ROMEO",
+			"modelno": ["147/156-1.9 JTD","159-2.4 JTDM","SPIDER/BRERA"],
+			"cylinder" : "4",
+			"diamm": "82.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1026": {
+			"model": "ALFA ROMEO",
+			"modelno": ["AR6BOX-1.9D"],
+			"cylinder" : "4",
+			"diamm": "82.600",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1027": {
+			"model": "ALFA ROMEO",
+			"modelno": ["164-2.0 TURBO"],
+			"cylinder" : "4",
+			"diamm": "84.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1028": {
+			"model": "ALFA ROMEO",
+			"modelno": ["35AR8/AR8","AR10-2.4D"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1029": {
+			"model": "ALFA ROMEO",
+			"modelno": ["A8BOX 2.4B"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1030": {
+			"model": "ALFA ROMEO",
+			"modelno": ["240-244-2.5D"],
+			"cylinder" : "4",
+			"diamm": "94.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1031": {
+			"model": "BMC",
+			"modelno": ["MARINA II","ALLEGRO/METRO"],
+			"cylinder" : "",
+			"diamm": "70.600",
+			"refno" : ["SU3598"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1032": {
+			"model": "BMC",
+			"modelno": ["TAXICAB","1.5 WF/K"],
+			"cylinder" : "",
+			"diamm": "82.550",
+			"refno" : ["SU221801"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1033": {
+			"model": "BMC",
+			"modelno": ["A SR.A34/40","MINI850","HEALEY","SPRITE"],
+			"cylinder" : "",
+			"diamm": "62.916",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1034": {
+			"model": "BMC",
+			"modelno": ["MINI 1000","CITY","HL","A+R"],
+			"cylinder" : "",
+			"diamm": "64.567",
+			"refno" : ["SU 3367"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1035": {
+			"model": "BMC",
+			"modelno": ["B R","A50 CAMBRIDGE"],
+			"cylinder" : "",
+			"diamm": "73.025",
+			"refno" : ["SU2447"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1036": {
+			"model": "BMC",
+			"modelno": ["1.5 A60","J2M16"],
+			"cylinder" : "",
+			"diamm": "73.012",
+			"refno" : ["SU498901"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1037": {
+			"model": "BMC",
+			"modelno": ["B 6R","A60"],
+			"cylinder" : "",
+			"diamm": "76.187",
+			"refno" : ["SU3270"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1038": {
+			"model": "BMC",
+			"modelno": ["E SR.","O H C","MAXI 175"],
+			"cylinder" : "",
+			"diamm": "76.200",
+			"refno" : ["SU4245"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1039": {
+			"model": "BMC",
+			"modelno": ["B SR.","1800 MK I"],
+			"cylinder" : "",
+			"diamm": "80.251",
+			"refno" : ["SU351084","SU3588"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1040": {
+			"model": "BMC",
+			"modelno": ["EA SR."],
+			"cylinder" : "",
+			"diamm": "88.900",
+			"refno" : ["SU584001"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1041": {
+			"model": "BMC",
+			"modelno": ["METROPOLITAN"],
+			"cylinder" : "",
+			"diamm": "90.475",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1042": {
+			"model": "BMC",
+			"modelno": ["METROPOLITAN"],
+			"cylinder" : "",
+			"diamm": "90.475",
+			"refno" : ["SU494402"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1043": {
+			"model": "BMC",
+			"modelno": ["OEA/OEB"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : ["SJ259100","SJ259102"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},	
+		"PL-S-1044": {
+			"model": "BMC",
+			"modelno": ["4/98DT"],
+			"cylinder" : "",
+			"diamm": "98.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1045": {
+			"model": "BMC",
+			"modelno": ["OEE/OEJ"],
+			"cylinder" : "",
+			"diamm": "100.000",
+			"refno" : ["SJ351163","SJ590702/01"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1046": {
+			"model": "BED FORD",
+			"modelno": ["16SV","CF220VAN","CF250VAN"],
+			"cylinder" : "",
+			"diamm": "79.375",
+			"refno" : ["SU553201"],
+			"category" : ["TRACTOR","BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1047": {
+			"model": "BED FORD",
+			"modelno": ["16 D","ASTRAVAN/MAX","1.6D"],
+			"cylinder" : "",
+			"diamm": "80.000",
+			"refno" : ["SU351283"],
+			"category" : ["TRACTOR","BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1048": {
+			"model": "BED FORD",
+			"modelno": ["C 190","KBD26 PICKUP","1.6D"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1049": {
+			"model": "BED FORD",
+			"modelno": ["KBD41","1.7D/DR"],
+			"cylinder" : "",
+			"diamm": "82.500",
+			"refno" : [""],
+			"category" : ["TRACTOR","BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1050": {
+			"model": "BED FORD",
+			"modelno": ["21 D","BLITZ 201D"],
+			"cylinder" : "",
+			"diamm": "88.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1051": {
+			"model": "BED FORD",
+			"modelno": ["BLITZ 2.3D","CF97"],
+			"cylinder" : "",
+			"diamm": "92.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},	
+		"PL-S-1052": {
+			"model": "BED FORD",
+			"modelno": ["220/330DI","J 6"],
+			"cylinder" : "",
+			"diamm": "103.175",
+			"refno" : ["7191818","SU497301","SU497303"],
+			"category" : ["TRACTOR","BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1053": {
+			"model": "BED FORD",
+			"modelno": ["220/330DI","J 6"],
+			"cylinder" : "",
+			"diamm": "103.175",
+			"refno" : ["7191818","SU497301","SU497303"],
+			"category" : ["TRACTOR","BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1054": {
+			"model": "CATER PILLAR",
+			"modelno": ["3066","3064"],
+			"cylinder" : "4/6",
+			"diamm": "101.600",
+			"refno" : ["517523"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1055": {
+			"model": "CATER PILLAR",
+			"modelno": ["3114","3116"],
+			"cylinder" : "4/6",
+			"diamm": "105.000",
+			"refno" : ["7C6208"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1056": {
+			"model": "CATER PILLAR",
+			"modelno": ["D 330A","D 333A"],
+			"cylinder" : "4/6",
+			"diamm": "114.300",
+			"refno" : ["8S 2240","4A 8166","KS # 89 305 110","127 WN 03"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1057": {
+			"model": "CATER PILLAR",
+			"modelno": ["1160","3208","3160 / 1160"],
+			"cylinder" : "8",
+			"diamm": "114.300",
+			"refno" : ["9N 6275","127 WV 11"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1058": {
+			"model": "CATER PILLAR",
+			"modelno": ["D 330C / 3304","3306","1673C / D 334"],
+			"cylinder" : "4/6",
+			"diamm": "120.650",
+			"refno" : ["2P 8889","9S 6557","KS # 89 303 110","127 WN 07/13","5S 6346"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/CAT/CAT-2P8889.JPG"
+		},
+		"PL-S-1059": {
+			"model": "CATER PILLAR",
+			"modelno": ["D 343 / 1693","D 346","D 348","D 349"],
+			"cylinder" : "6",
+			"diamm": "137.160",
+			"refno" : ["6N 8700","5S 3772","127 WN 09"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1060": {
+			"model": "CATER PILLAR",
+			"modelno": ["3406","3408","3412"],
+			"cylinder" : "6/8",
+			"diamm": "137.160",
+			"refno" : ["2W 6000","7W 3550","1W 6280","127 WN 10"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1061": {
+			"model": "CATER PILLAR",
+			"modelno": ["D 339","D8","D 342 / D1300","D 364 / D 375","D 386 / D397"],
+			"cylinder" : "4/6/8/12",
+			"diamm": "146.000",
+			"refno" : ["8N 5676","127 WN 06"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/CAT/CAT-8N5676-146MM.JPG"
+		},
+		"PL-S-1062": {
+			"model": "CATER PILLAR",
+			"modelno": ["D 335","D9","D 379","D 398","D 399"],
+			"cylinder" : "4/6/8/12",
+			"diamm": "158.750",
+			"refno" : ["8N 9174"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1063": {
+			"model": "CUMMINS",
+			"modelno": ["6 BT","6 BTA"],
+			"cylinder" : "4/6",
+			"diamm": "102.000",
+			"refno" : [""],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1064": {
+			"model": "CUMMINS",
+			"modelno": ["6BT"],
+			"cylinder" : "4/6",
+			"diamm": "102.000",
+			"refno" : [""],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1065": {
+			"model": "CUMMINS",
+			"modelno": ["6 CT"],
+			"cylinder" : "6",
+			"diamm": "114.000",
+			"refno" : ["380 2407","SHORT"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1066": {
+			"model": "CUMMINS",
+			"modelno": ["6 CT"],
+			"cylinder" : "6",
+			"diamm": "114.000",
+			"refno" : ["380 2370","SHORT"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1067": {
+			"model": "CUMMINS",
+			"modelno": ["V8 555","VT 225"],
+			"cylinder" : "6/8",
+			"diamm": "117.475",
+			"refno" : ["FP-3022530","327 7592"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1068": {
+			"model": "CUMMINS",
+			"modelno": ["L 10"],
+			"cylinder" : "4",
+			"diamm": "125.000",
+			"refno" : ["3080760","FP 3080760"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1069": {
+			"model": "CUMMINS",
+			"modelno": ["NH 220"],
+			"cylinder" : "6",
+			"diamm": "130.175",
+			"refno" : ["6610-21-2213","6610-21-2212","154400"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1070": {
+			"model": "CUMMINS",
+			"modelno": ["QS","ISX"],
+			"cylinder" : "6",
+			"diamm": "137.000",
+			"refno" : ["4101507"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1071": {
+			"model": "CUMMINS",
+			"modelno": ["NT 855"],
+			"cylinder" : "6",
+			"diamm": "139.700",
+			"refno" : ["KS # 89 833 110","6710-21-2210","3055099"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/CUMMINS/CUMMINS-NT-855.JPG"
+		},
+		"PL-S-1072": {
+			"model": "CUMMINS",
+			"modelno": ["KTA 1150","KTA 19"],
+			"cylinder" : "6",
+			"diamm": "158.750",
+			"refno" : [""],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1073": {
+			"model": "DAF",
+			"modelno": ["EN 55"],
+			"cylinder" : "6",
+			"diamm": "94.00",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1074": {
+			"model": "DAF",
+			"modelno": ["D 575"],
+			"cylinder" : "6",
+			"diamm": "100.00",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1075": {
+			"model": "DAF",
+			"modelno": ["DF/DT","DTD 615"],
+			"cylinder" : "6",
+			"diamm": "104.20",
+			"refno" : ["220095/112489","212275","SJ 351028","213 WT 01"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1076": {
+			"model": "DAF",
+			"modelno": ["DH 825/DU 825","2100"],
+			"cylinder" : "6",
+			"diamm": "118.00",
+			"refno" : ["240474","0396855","SJ 351103","213 WT 02"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1077": {
+			"model": "DAF",
+			"modelno": ["RS 180","75"],
+			"cylinder" : "6",
+			"diamm": "118.00",
+			"refno" : ["KS # 89 501 110","0396847"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1078": {
+			"model": "DAF",
+			"modelno": ["DH 825/DU 825"],
+			"cylinder" : "6",
+			"diamm": "130.00",
+			"refno" : ["394 080","396 080 /241 054","SJ 351351","213 WT 03"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1079": {
+			"model": "DEUTZ / KHD",
+			"modelno": ["FL 1011","EURO 1"],
+			"cylinder" : "4",
+			"diamm": "91.00",
+			"refno" : ["KS # 89 423 110"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1080": {
+			"model": "DEUTZ / KHD",
+			"modelno": ["BF 1012","EURO 1/2"],
+			"cylinder" : "4/6",
+			"diamm": "94.00",
+			"refno" : ["KS # 89 447 110"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1081": {
+			"model": "DEUTZ / KHD",
+			"modelno": ["BF L912"],
+			"cylinder" : "2/3/5/4/6",
+			"diamm": "100.00",
+			"refno" : ["14-900080-00","KS # 89 005 110"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1082": {
+			"model": "DEUTZ / KHD",
+			"modelno": ["2012"],
+			"cylinder" : "4/6",
+			"diamm": "101.00",
+			"refno" : ["14-900080-00","KS # 89 005 110"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1083": {
+			"model": "DEUTZ / KHD",
+			"modelno": ["BF L913"],
+			"cylinder" : "2/3/5/4/6",
+			"diamm": "102.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1084": {
+			"model": "DEUTZ / KHD",
+			"modelno": ["TD 226"],
+			"cylinder" : "6",
+			"diamm": "105.00",
+			"refno" : ["KS # 88 635 190"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1085": {
+			"model": "DEUTZ / KHD",
+			"modelno": ["BF 1013","EURO 1 & 2"],
+			"cylinder" : "4/6",
+			"diamm": "108.00",
+			"refno" : ["101 WN 16","14-480040-00","KS # 89 409 110"],
+			"image" : "../images/products/DEUTZ/DEUTZ-1013.jpg"
+		},
+		"PL-S-1086": {
+			"model": "DAIHATSU",
+			"modelno": ["CL"],
+			"cylinder" : "3",
+			"diamm": "76.00",
+			"refno" : ["11461-87703"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1087": {
+			"model": "DAIHATSU",
+			"modelno": ["DE"],
+			"cylinder" : "4",
+			"diamm": "85.00",
+			"refno" : ["992-4223-1101"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1088": {
+			"model": "DAIHATSU",
+			"modelno": ["DG"],
+			"cylinder" : "4",
+			"diamm": "88.00",
+			"refno" : ["11461-87302","SU351322"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1089": {
+			"model": "DAIHATSU",
+			"modelno": ["DG  NEW"],
+			"cylinder" : "4",
+			"diamm": "88.00",
+			"refno" : ["11461-87304"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1090": {
+			"model": "DAIHATSU",
+			"modelno": ["DG OLD"],
+			"cylinder" : "4",
+			"diamm": "88.00",
+			"refno" : ["992-5113-1171"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1091": {
+			"model": "DAIHATSU",
+			"modelno": ["DL"],
+			"cylinder" : "4",
+			"diamm": "92.00",
+			"refno" : ["11461-87303","SU351312"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1092": {
+			"model": "DAIHATSU",
+			"modelno": ["DL NEW"],
+			"cylinder" : "4",
+			"diamm": "92.00",
+			"refno" : ["11461-87305"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1093": {
+			"model": "DAIHATSU",
+			"modelno": ["12/12R"],
+			"cylinder" : "4",
+			"diamm": "80.500",
+			"refno" : ["11462-31020","SU4264"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1094": {
+			"model": "DAIHATSU",
+			"modelno": ["B"],
+			"cylinder" : "4",
+			"diamm": "95.000",
+			"refno" : ["11461-56020","SU351232","11461-56030","SU351323"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1095": {
+			"model": "DAIHATSU",
+			"modelno": ["3B"],
+			"cylinder" : "4",
+			"diamm": "102.000",
+			"refno" : ["SU351238"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1096": {
+			"model": "DAIHATSU",
+			"modelno": ["4K"],
+			"cylinder" : "4",
+			"diamm": "74.981",
+			"refno" : ["11461-24012"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1097": {
+			"model": "DAIHATSU",
+			"modelno": ["5R"],
+			"cylinder" : "4",
+			"diamm": "87.300",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1098": {
+			"model": "DAVID BROWN",
+			"modelno": ["AD3/49/AD4/49","DSD475/575","CASE"],
+			"cylinder" : "4",
+			"diamm": "100.046",
+			"refno" : ["SU351121"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1099": {
+			"model": "FORD TRACTOR",
+			"modelno": ["592 E"],
+			"cylinder" : "4",
+			"diamm": "100.00",
+			"refno" : ["SJ 491601","14-370870-00"],
+			"image" : "../images/products/FORD/FORD-6000.jpg"
+		},
+		"PL-S-1100": {
+			"model": "FORD TRACTOR",
+			"modelno": ["592 E"],
+			"cylinder" : "4",
+			"diamm": "100.00",
+			"refno" : ["14-455210-00","SJ 196802"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1101": {
+			"model": "FORD TRACTOR",
+			"modelno": ["2708 E","2703 E"],
+			"cylinder" : "4",
+			"diamm": "100.00",
+			"refno" : ["SU 594502"],
+			"image" : "../images/products/FORD/FORD-6000.jpg"
+		},
+		"PL-S-1102": {
+			"model": "FORD TRACTOR",
+			"modelno": ["2708 E","2703 E"],
+			"cylinder" : "4",
+			"diamm": "100.00",
+			"refno" : ["SU 594501"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1103": {
+			"model": "FORD TRACTOR",
+			"modelno": ["2700","2701 E","2704 E"],
+			"cylinder" : "4",
+			"diamm": "104.775",
+			"refno" : ["KS # 88 141 190","SU 522801"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1104": {
+			"model": "FORD TRACTOR",
+			"modelno": ["2704 ET","360 DT"],
+			"cylinder" : "4",
+			"diamm": "104.775",
+			"refno" : ["KS # 89 167 190","SU 351136"],
+			"image" : "../images/products/FORD/FORD-6000.jpg"
+		},
+		"PL-S-1105": {
+			"model": "FORD TRACTOR",
+			"modelno": ["2704 ET","360 DT"],
+			"cylinder" : "4",
+			"diamm": "104.775",
+			"refno" : ["SJ 351051"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1106": {
+			"model": "FORD TRACTOR",
+			"modelno": ["6Y","7A","56 G"],
+			"cylinder" : "3/4",
+			"diamm": "106.69",
+			"refno" : ["14-010770-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1107": {
+			"model": "FORD TRACTOR",
+			"modelno": ["6Y","7A","56 G"],
+			"cylinder" : "3/4",
+			"diamm": "106.69",
+			"refno" : ["14-020730-00"],
+			"image" : "../images/products/FORD/FORD-6000.jpg"
+		},
+		"PL-S-1108": {
+			"model": "FORD TRACTOR",
+			"modelno": ["2715E D SERIES"],
+			"cylinder" : "6",
+			"diamm": "107.21",
+			"refno" : ["14-014640-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1109": {
+			"model": "FORD TRACTOR",
+			"modelno": ["2715E D SERIES"],
+			"cylinder" : "6",
+			"diamm": "107.21",
+			"refno" : ["14-014120-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1110": {
+			"model": "FORD TRACTOR",
+			"modelno": ["6Y/7A","BSD442","BSD 332","BSD 333H"],
+			"cylinder" : "3/4/6",
+			"diamm": "111.77",
+			"refno" : ["14-020740-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1111": {
+			"model": "FORD TRACTOR",
+			"modelno": ["6Y/7A","BSD442","BSD 332","BSD 333H"],
+			"cylinder" : "3/4/6",
+			"diamm": "111.77",
+			"refno" : ["14-020741-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1112": {
+			"model": "FORD TRACTOR",
+			"modelno": ["6Y/7A","BSD442","BSD 332","BSD 333H"],
+			"cylinder" : "3/4/6",
+			"diamm": "111.77",
+			"refno" : ["14-020742-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1113": {
+			"model": "FORD TRACTOR",
+			"modelno": ["6Y/7A","BSD442","BSD 332","BSD 333H"],
+			"cylinder" : "3/4/6",
+			"diamm": "111.77",
+			"refno" : ["14-027270-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1114": {
+			"model": "FORD TRACTOR",
+			"modelno": ["6Y/7A","BSD442","BSD 332","BSD 333H"],
+			"cylinder" : "3/4/6",
+			"diamm": "111.77",
+			"refno" : ["14-021611-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1115": {
+			"model": "FORD EUROPE",
+			"modelno": ["FIESTA V 1.4 TDCi","FIESTA VAN 1.4 TDCi","FUSION 1.4 TDCi"],
+			"cylinder" : "4",
+			"diamm": "73.70",
+			"refno" : ["14-020760-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1116": {
+			"model": "FORD EUROPE",
+			"modelno": ["FIESTA IV 1.3i","FOCUS II 1.6","C-MAX 1.6 TDCi"],
+			"cylinder" : "4",
+			"diamm": "74.00",
+			"refno" : ["14-020900-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1117": {
+			"model": "FORD EUROPE",
+			"modelno": ["FIESTA 1.1","ESCORT III 1.1"],
+			"cylinder" : "4",
+			"diamm": "74.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1118": {
+			"model": "FORD EUROPE",
+			"modelno": ["FIESTA 1.1TRASNIT 90 /115","TRASNIT V20 / V50"],
+			"cylinder" : "4",
+			"diamm": "79.38",
+			"refno" : ["14-010900-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1119": {
+			"model": "FORD EUROPE",
+			"modelno": ["GALAXY 1.9 TDI","1Z/AFN/AHU"],
+			"cylinder" : "4",
+			"diamm": "79.38",
+			"refno" : ["14-027950-00","KS # 89 434 190"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1120": {
+			"model": "FORD EUROPE",
+			"modelno": ["CAPRI 1600 GT","ESCORT I/II/III"],
+			"cylinder" : "4",
+			"diamm": "80.98",
+			"refno" : ["14-010880-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1121": {
+			"model": "FORD EUROPE",
+			"modelno": ["TRANSIT 2.2 TDCi","MONDEO III 2.2"],
+			"cylinder" : "4",
+			"diamm": "86.00",
+			"refno" : ["14-021120-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1122": {
+			"model": "FORD EUROPE",
+			"modelno": ["GRANADA 1.9D","XD88 /XDP88"],
+			"cylinder" : "4",
+			"diamm": "88.00",
+			"refno" : ["14-600420-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1123": {
+			"model": "FORD EUROPE",
+			"modelno": ["TRANSIT BOX","2.5 D"],
+			"cylinder" : "4",
+			"diamm": "93.67",
+			"refno" : ["14-014090-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1124": {
+			"model": "FORD EUROPE",
+			"modelno": ["SCORPIO I 2.5D/2.3","SIERA ESTATE 2.3D","XD3P/XD3","YTT/STR/STP"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : ["14-020660-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1125": {
+			"model": "FORD EUROPE",
+			"modelno": ["SCORPIO I 2.5D/2.3","SIERA ESTATE 2.3D","XD3P/XD3","YTT/STR/STP"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : ["14-021520-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1126": {
+			"model": "FORD EUROPE",
+			"modelno": ["SCORPIO I 2.5D/2.3","SIERA ESTATE 2.3D","XD3P/XD3","YTT/STR/STP"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : ["14-027270-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1127": {
+			"model": "FORD TRUCK",
+			"modelno": ["590E","592E"],
+			"cylinder" : "6/4",
+			"diamm": "100.000",
+			"refno" : ["14-370870-00","14-455210-00","SJ491601"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1128": {
+			"model": "FORD TRUCK",
+			"modelno": ["2740ET/2713E","27001E","2704E","2706E 240","2709E"],
+			"cylinder" : "4",
+			"diamm": "104.770",
+			"refno" : ["14-013700-00","14-045570-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1129": {
+			"model": "FORD TRUCK",
+			"modelno": ["110/6 AA DOVER","150/6 CA DOVER"],
+			"cylinder" : "4",
+			"diamm": "104.770",
+			"refno" : ["14-013700-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1130": {
+			"model": "FORD TRUCK",
+			"modelno": ["DOVER 6.0 TCI"],
+			"cylinder" : "4",
+			"diamm": "10.800",
+			"refno" : ["14-013700-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1131": {
+			"model": "FORD TRUCK",
+			"modelno": ["2501E","2502E","2503E","2504E","2508E"],
+			"cylinder" : "3/4/6",
+			"diamm": "106.690",
+			"refno" : ["14-020730-00","14-01770-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1132": {
+			"model": "FORD TRUCK",
+			"modelno": ["2711E 255","2712E 254","2714E 380"],
+			"cylinder" : "4/6",
+			"diamm": "107.210",
+			"refno" : ["14-014640-00","14-014120-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1133": {
+			"model": "FIAT",
+			"modelno": ["850 0.8 / 127 0.9","900T/E PANORAMA","FIORINO 0.9/UNO","PANDA 900","DUNA SALOON 0.9","165A4/100GC","170A"],
+			"cylinder" : "4",
+			"diamm": "65.000",
+			"refno" : ["14-011001-00","21205402"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1134": {
+			"model": "FIAT",
+			"modelno": ["PANDA 1000","UNO 45 1.0","FIORINO","PANDA VAN/1100","UNO 10 IE","TIPO 1.1/PUNTO55","PALIO 1.1","SEICENTO"],
+			"cylinder" : "4",
+			"diamm": "70.000",
+			"refno" : ["14-010991-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1135": {
+			"model": "FIAT",
+			"modelno": ["127 1.3D/147 1.3D","ELIBA 1.3D","FIORINO 1.3D","UNO 1.3 SUPER D"],
+			"cylinder" : "4",
+			"diamm": "76.000",
+			"refno" : ["14-021260-00","14-102470-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1136": {
+			"model": "FIAT",
+			"modelno": ["UNO 70 TD 1.1"],
+			"cylinder" : "4",
+			"diamm": "78.000",
+			"refno" : ["14-021421-00D"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1137": {
+			"model": "FIAT",
+			"modelno": ["124 1500 SPECIAL T","124 COUPE 1400","124 SPIDE 1500","128 1.1 / FAMILIARE","RITMO II 60 1.1"],
+			"cylinder" : "4",
+			"diamm": "80.000",
+			"refno" : ["14-021421-00D"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1138": {
+			"model": "FIAT",
+			"modelno": ["CINQUECENTO 0.7 I","126 700"],
+			"cylinder" : "2",
+			"diamm": "80.000",
+			"refno" : ["14-028710-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1139": {
+			"model": "FIAT",
+			"modelno": ["BRAVA 1.9 TD 100 S","MAREA 1.9 TD 100","MAREA 1.9 JTD 105","BRAVA 1.9 JTD 105","MULTIPLA 1.9 JTD 105","DOBLO/STILO/CROMA 1.9"],
+			"cylinder" : "4",
+			"diamm": "82.000",
+			"refno" : ["14-021051-00","14-028960-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1140": {
+			"model": "FIAT",
+			"modelno": ["SCUDO BOX 1.9","MAREA 1.9 TD 100SCUDO  COM 1.9D"],
+			"cylinder" : "4",
+			"diamm": "82.200",
+			"refno" : ["WJZ[DW8]","14-020290-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1141": {
+			"model": "FIAT",
+			"modelno": ["ELIBA 1.7D","FIRINO","UNO 1.7D/UNO 60","DUNA DS 1.7","PENNY VAN 1.7D","REGATA 60 1.7 D","RITMO II 60","TIPO 1.7D/PUNTO","DUCATO/TALENTO"],
+			"cylinder" : "4",
+			"diamm": "82.600",
+			"refno" : ["14-021551-00","14-023751-00","14-785400-00","14-0147300-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1142": {
+			"model": "FIAT",
+			"modelno": ["REGATA 60 D 1.7","RITMO II 60 D 1.7","SCUDO BOX 1.90TD","ULYSSE 1.9 TD","COMBINATO 1.9 TD"],
+			"cylinder" : "4",
+			"diamm": "83.000",
+			"refno" : ["14-014720-00","14-02053-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1143": {
+			"model": "FIAT",
+			"modelno": ["CROMA 2000 CHT","TEMPRA 1.8/TIPO","COUPE 2.0 16V T"],
+			"cylinder" : "4",
+			"diamm": "84.000",
+			"refno" : ["14-011041-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1144": {
+			"model": "FIAT",
+			"modelno": ["DUCATO 2.2 120","DUCATO BOX BUS","MLTIJET 2.2 D"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["14-021120-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1145": {
+			"model": "FIAT",
+			"modelno": ["DUCATO  2.2 TD","CROMA 2500 TD","DUCATO BOX 2.5D","DUCATO PLATFORM 2.5D"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : ["14-021371-00","14-021372-00","14-0213730","14-021480-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1146": {
+			"model": "FIAT",
+			"modelno": ["DUCATO 250D","DUCATO BOX 2.5 D","DUCATO PANORAMA","DUCA PLATFORM","CROMA 2500 TD"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : ["14-021280-00","14-028930-00","14-028931-00","14-028932-00","14-022560-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1147": {
+			"model": "FIAT",
+			"modelno": ["DUCATO BOX 2.5"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : ["CRD93L[-661]","14-013481-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1148": {
+			"model": "FIAT",
+			"modelno": ["DUCATO BOX 2.8TDI","DCATO BUS 2.8TDI","DUCATO BOX 2.8 JTD","BOX 2.8 JTD"],
+			"cylinder" : "4",
+			"diamm": "94.400",
+			"refno" : ["14-021321","14-021322-00","14-028930-00","14-028931-00","14-028932-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1149": {
+			"model": "GARDNER",
+			"modelno": ["HLY DIESEL"],
+			"cylinder" : "2/4/6",
+			"diamm": "107.950",
+			"refno" : ["SU000101"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1150": {
+			"model": "GARDNER",
+			"modelno": ["LXB"],
+			"cylinder" : "8",
+			"diamm": "120.650",
+			"refno" : ["SU498801"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1151": {
+			"model": "GARDNER",
+			"modelno": ["L3"],
+			"cylinder" : "6",
+			"diamm": "139.700",
+			"refno" : ["SU103403"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1152": {
+			"model": "GARDNER",
+			"modelno": ["6LYT"],
+			"cylinder" : "6",
+			"diamm": "140.000",
+			"refno" : ["SU351228"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1153": {
+			"model": "HINO",
+			"modelno": ["DM 100"],
+			"cylinder" : "6",
+			"diamm": "90.000",
+			"refno" : ["11467-1401","11467-1440"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1154": {
+			"model": "HINO",
+			"modelno": ["DQ 100"],
+			"cylinder" : "6",
+			"diamm": "92.000",
+			"refno" : ["11467-1440"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1155": {
+			"model": "HINO",
+			"modelno": ["B"],
+			"cylinder" : "4",
+			"diamm": "95.000",
+			"refno" : ["11461-56020","SJ351310"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1156": {
+			"model": "HINO",
+			"modelno": ["3B"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : ["11461-58020","SJ351364"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1157": {
+			"model": "HINO",
+			"modelno": ["WOAD/E"],
+			"cylinder" : "4",
+			"diamm": "104.000",
+			"refno" : ["11467-1761","11467-1771/81/91"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/HINO/HINO-P11C.jpg"
+		},
+		"PL-S-1158": {
+			"model": "HINO",
+			"modelno": ["EH100"],
+			"cylinder" : "6",
+			"diamm": "105.000",
+			"refno" : ["11467-1030","11467-1040"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/HINO/HINO-P11C.jpg"
+		},
+		"PL-S-1159": {
+			"model": "HINO",
+			"modelno": ["HO6C","EH500"],
+			"cylinder" : "6",
+			"diamm": "108.000",
+			"refno" : ["11467-1591","11467-1601","114678-1611/21"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/HINO/HINO-P11C.jpg"
+		},
+		"PL-S-1160": {
+			"model": "HINO",
+			"modelno": ["EH300"],
+			"cylinder" : "6",
+			"diamm": "108.000",
+			"refno" : ["11467-101","11467-1020"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/HINO/HINO-P11C.jpg"
+		},
+		"PL-S-1161": {
+			"model": "HINO",
+			"modelno": ["HO7C/HO7D","EH700"],
+			"cylinder" : "6",
+			"diamm": "110.000",
+			"refno" : ["11467-1200/10","11467-1220/30"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/HINO/HINO-P11C.jpg"
+		},
+		"PL-S-1162": {
+			"model": "HINO",
+			"modelno": ["JO5C","JO7C","JO8C"],
+			"cylinder" : "4",
+			"diamm": "114.000",
+			"refno" : ["11467-2780","11467-2601","11467-2790","11467-2800"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1163": {
+			"model": "HINO",
+			"modelno": ["EP100"],
+			"cylinder" : "6",
+			"diamm": "120.000",
+			"refno" : ["11467-1730-1","11467-1740-1","11467--1"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1164": {
+			"model": "HINO",
+			"modelno": ["EM100"],
+			"cylinder" : "6",
+			"diamm": "124.000",
+			"refno" : ["11467-1661/71","SJ351311"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1165": {
+			"model": "HINO",
+			"modelno": ["M10U","M10C"],
+			"cylinder" : "6",
+			"diamm": "127.000",
+			"refno" : ["11467-2000","11467-201/20/30"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1166": {
+			"model": "HINO",
+			"modelno": ["EK100","EK200"],
+			"cylinder" : "6",
+			"diamm": "137.000",
+			"refno" : ["11467-1910/20","11467-1960"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1167": {
+			"model": "HINO",
+			"modelno": ["2C/V25C"],
+			"cylinder" : "8",
+			"diamm": "146.000",
+			"refno" : ["11467-2290","11467-2690","1L46E01-FP"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1168": {
+			"model": "HINO",
+			"modelno": ["F21C","V26C","TRUCK FS","SS"],
+			"cylinder" : "10",
+			"diamm": "150.000",
+			"refno" : ["1L50T01-FP"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/HINO/HINO-P11C.jpg"
+		},
+		"PL-S-1169": {
+			"model": "HENSCHEL",
+			"modelno": ["OM352"],
+			"cylinder" : "",
+			"diamm": "97.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1170": {
+			"model": "HENSCHEL",
+			"modelno": ["OM360"],
+			"cylinder" : "",
+			"diamm": "115.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1171": {
+			"model": "HONDA",
+			"modelno": ["CITY SALOON 1.8D","CONCERTO8TD"],
+			"cylinder" : "",
+			"diamm": "80.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1172": {
+			"model": "HANOMAG",
+			"modelno": ["OM 615.915"],
+			"cylinder" : "",
+			"diamm": "87.000",
+			"refno" : [""],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1173": {
+			"model": "IHC",
+			"modelno": ["D188/TD 98"],
+			"cylinder" : "4",
+			"diamm": "93.663",
+			"refno" : ["SJ351159"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1174": {
+			"model": "IHC",
+			"modelno": ["UD282"],
+			"cylinder" : "6",
+			"diamm": "93.663",
+			"refno" : ["SJ351160"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1175": {
+			"model": "IHC",
+			"modelno": ["D358"],
+			"cylinder" : "6",
+			"diamm": "98.425",
+			"refno" : ["SJ351201","88-891-180","SJ351211","SJ351274"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1176": {
+			"model": "IHC",
+			"modelno": ["C 152"],
+			"cylinder" : "",
+			"diamm": "85.725",
+			"refno" : ["DS 202"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1177": {
+			"model": "IHC",
+			"modelno": ["C 121"],
+			"cylinder" : "",
+			"diamm": "90.500",
+			"refno" : ["DS 343"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1178": {
+			"model": "IHC",
+			"modelno": ["C 291"],
+			"cylinder" : "",
+			"diamm": "95.250",
+			"refno" : ["DS 474"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1179": {
+			"model": "IHC",
+			"modelno": ["BD 264"],
+			"cylinder" : "",
+			"diamm": "101.600",
+			"refno" : ["SJ181601"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1180": {
+			"model": "IHC",
+			"modelno": ["BD 281"],
+			"cylinder" : "4",
+			"diamm": "104.775",
+			"refno" : ["SJ490501"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1181": {
+			"model": "IHC",
+			"modelno": ["D 407"],
+			"cylinder" : "6",
+			"diamm": "111.125",
+			"refno" : ["SU1961F"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1182": {
+			"model": "IHC",
+			"modelno": ["RD 372","TD9","TD9A"],
+			"cylinder" : "6",
+			"diamm": "111.760",
+			"refno" : ["SJ038600N"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1183": {
+			"model": "IHC",
+			"modelno": ["9 LTR"],
+			"cylinder" : "6",
+			"diamm": "114.300",
+			"refno" : ["DS 588"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1184": {
+			"model": "IVECO",
+			"modelno": ["8140.07.2585EURO1","8140-07-2700/2701","8140.07.3710","8140.67.2585EURO2","8140.27S2801 SOFIM","8140.47.3700/47R/S"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : ["14-021371-00D","14-021372-00","14.021373-00","14-021480.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1185": {
+			"model": "IVECO",
+			"modelno": ["8140.43B/43N/43S","8140.43S.4000/20/30","87-122200-00","87-122208-00","8140-63-4000/63"],
+			"cylinder" : "4",
+			"diamm": "94.400",
+			"refno" : ["14-021321-00","14-021322-00","14-028930-00","14-028931-00","14-028932-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1186": {
+			"model": "IVECO",
+			"modelno": ["803 A.062-8030.01","804A-80470-01","806 A 8025.01"],
+			"cylinder" : "2/3/4/6",
+			"diamm": "95.000",
+			"refno" : ["14-010620-00","14-011061-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1187": {
+			"model": "IVECO",
+			"modelno": ["8025.02/8030/8035","8045.02/8060.02.000","8065.02.070/007/200","8035.06/200/206/208","8045-06-200/208/213"],
+			"cylinder" : "2/3/4/6",
+			"diamm": "100.000",
+			"refno" : ["14-021540-00","14-101070/22","14-013401-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1188": {
+			"model": "IVECO",
+			"modelno": ["F4AE0481 A-E17/15","F4AE 0681 A E/28/24"],
+			"cylinder" : "4/6",
+			"diamm": "102.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1189": {
+			"model": "IVECO",
+			"modelno": ["8035-04/200/055,060","8060.04/055/060/070","8065.04-H","804L/8061L","8060.24.601/670/070"],
+			"cylinder" : "3/4/6",
+			"diamm": "103.000",
+			"refno" : ["14-010180-00","14-010181-00","14.010182-00","14-013666-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1190": {
+			"model": "IVECO",
+			"modelno": ["8035-04/200/055,060","8060.04/055/060/070","8065.04-H","804L/8061L","8060.24.601/670/070"],
+			"cylinder" : "3/4/6",
+			"diamm": "103.000",
+			"refno" : ["14-010180-00","14-010181-00","14.010182-00","14-013666-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1191": {
+			"model": "IVECO",
+			"modelno": ["8035.05","8045.05","8065.04-H","8065.05"],
+			"cylinder" : "3/4/6",
+			"diamm": "104.000",
+			"refno" : ["14-021361-00","14-021362-00","14-021363-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1192": {
+			"model": "IVECO",
+			"modelno": ["8035.05","8045.05","8065.04-H","8065.05"],
+			"cylinder" : "3/4/6",
+			"diamm": "104.000",
+			"refno" : ["14-010940-00","14-010941-00","14-010942-00","14-010943-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1193": {
+			"model": "IVECO",
+			"modelno": ["8040.05.200/203/230","8060.05.270/280/285","8060.05289/8060.05.","8040.05.4990","8040.25 B.4200","8040.25X.4000","804025R 4300","804025V.4000/4080","806045K/45M/45R","8060.45S.6000/6800"],
+			"cylinder" : "4/6",
+			"diamm": "104.000",
+			"refno" : ["14.021361/62/63","14.021491.00","14.021493/494"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1194": {
+			"model": "IVECO",
+			"modelno": ["8040.05.4990","8040.25 B.4200","8040.25X.4000","804025R 4300","804025V.4000/4080"],
+			"cylinder" : "",
+			"diamm": "104.000",
+			"refno" : ["14.010940.00","14.010941.00","14.010942/943"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1195": {
+			"model": "IVECO",
+			"modelno": ["CO2/CO3/D/CO55","CO2 D"],
+			"cylinder" : "4",
+			"diamm": "108.000",
+			"refno" : ["14-630100-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1196": {
+			"model": "IVECO",
+			"modelno": ["C O3","C20/C21/C41","CO3/CO4D"],
+			"cylinder" : "4",
+			"diamm": "110.000",
+			"refno" : ["14-611250-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-110.jpg"
+		},
+		"PL-S-1197": {
+			"model": "IVECO",
+			"modelno": ["8360.46","8660.46R.416"],
+			"cylinder" : "6",
+			"diamm": "112.000",
+			"refno" : ["14-740060-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1198": {
+			"model": "IVECO",
+			"modelno": ["8340.05/8360.05","8365.05.500/520/530"],
+			"cylinder" : "6",
+			"diamm": "115.000",
+			"refno" : ["14-684840-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-110.jpg"
+		},
+		"PL-S-1199": {
+			"model": "IVECO",
+			"modelno": ["CURSOR 8","F2BE 0681 A EURO"],
+			"cylinder" : "6",
+			"diamm": "115.000",
+			"refno" : ["2995614","500395047"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/CURSOR/CURSOR-8.jpg"
+		},
+		"PL-S-1200": {
+			"model": "IVECO",
+			"modelno": ["8200.02/220","8200.12/12.000","8205.02"],
+			"cylinder" : "6",
+			"diamm": "122.000",
+			"refno" : ["14.020200.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1201": {
+			"model": "IVECO",
+			"modelno": ["8220.02.701/834","8220.12","8220.12.709"],
+			"cylinder" : "6",
+			"diamm": "125.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1202": {
+			"model": "IVECO",
+			"modelno": ["CUSSOR 10"],
+			"cylinder" : "6",
+			"diamm": "125.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1203": {
+			"model": "IVECO",
+			"modelno": ["203 A/61","203 A/61","310 A/61"],
+			"cylinder" : "6",
+			"diamm": "130.000",
+			"refno" : ["14.018002.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1204": {
+			"model": "IVECO",
+			"modelno": ["F3BE 0681 A EURO 3","CURSOR 13-540"],
+			"cylinder" : "6",
+			"diamm": "135.000",
+			"refno" : ["15-260050-00","504094025","2992258"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1205": {
+			"model": "IVECO",
+			"modelno": ["8210.22","8210.22.069/101/175","8210.22X.235","8210.42K","8210.22.105/171/210"],
+			"cylinder" : "6",
+			"diamm": "137.000",
+			"refno" : ["14-021230-00","14-021232-00","14-21233-00","14-021562-10","14-021563-10"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/IVECO/Iveco-137.jpg"
+		},
+		"PL-S-1206": {
+			"model": "ISUZU",
+			"modelno": ["4EC1"],
+			"cylinder" : "4",
+			"diamm": "76.000",
+			"refno" : ["8-94286-828-0","SU351313"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1207": {
+			"model": "ISUZU",
+			"modelno": ["4ZA1"],
+			"cylinder" : "4",
+			"diamm": "82.000",
+			"refno" : ["8-94548-085-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1208": {
+			"model": "ISUZU",
+			"modelno": ["C201"],
+			"cylinder" : "4",
+			"diamm": "83.000",
+			"refno" : ["SU351096"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1209": {
+			"model": "ISUZU",
+			"modelno": ["4FC1"],
+			"cylinder" : "4",
+			"diamm": "84.000",
+			"refno" : ["8-94389-887-1"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1209": {
+			"model": "ISUZU",
+			"modelno": ["4FC1"],
+			"cylinder" : "4",
+			"diamm": "84.000",
+			"refno" : ["8-94389-887-1"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1210": {
+			"model": "ISUZU",
+			"modelno": ["4FB1","6FB1"],
+			"cylinder" : "4",
+			"diamm": "84.000",
+			"refno" : ["8-94389-119-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1211": {
+			"model": "ISUZU",
+			"modelno": ["4FD1"],
+			"cylinder" : "4",
+			"diamm": "84.000",
+			"refno" : ["8-94286-454-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1212": {
+			"model": "ISUZU",
+			"modelno": ["C190"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["9-11261-224-1","9-11261-210-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1213": {
+			"model": "ISUZU",
+			"modelno": ["C1240"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : ["SU351244"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1214": {
+			"model": "ISUZU",
+			"modelno": ["4ZE1"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1215": {
+			"model": "ISUZU",
+			"modelno": ["4BA1"],
+			"cylinder" : "",
+			"diamm": "98.000",
+			"refno" : ["5-11261-802"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1216": {
+			"model": "ISUZU",
+			"modelno": ["4BB1","4BD1"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1217": {
+			"model": "ISUZU",
+			"modelno": ["6BB1","6BD1"],
+			"cylinder" : "4",
+			"diamm": "102.000",
+			"refno" : ["5-11261-004-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1218": {
+			"model": "ISUZU",
+			"modelno": ["4HE1T"],
+			"cylinder" : "4",
+			"diamm": "110.000",
+			"refno" : ["8-97176-728-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1219": {
+			"model": "ISUZU",
+			"modelno": ["6HF1"],
+			"cylinder" : "6",
+			"diamm": "110.000",
+			"refno" : ["8-94389-276-3"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1220": {
+			"model": "ISUZU",
+			"modelno": ["6SA1"],
+			"cylinder" : "6",
+			"diamm": "115.000",
+			"refno" : ["1-11261-063-0","1-11261-065-3","1-11261-094-0-1"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1221": {
+			"model": "ISUZU",
+			"modelno": ["6HH1"],
+			"cylinder" : "6",
+			"diamm": "115.000",
+			"refno" : ["8-94393-273-1","8-94396-847-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1222": {
+			"model": "ISUZU",
+			"modelno": ["4HG1"],
+			"cylinder" : "6",
+			"diamm": "115.000",
+			"refno" : ["8-97351-558-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1223": {
+			"model": "ISUZU",
+			"modelno": ["4HK1"],
+			"cylinder" : "6",
+			"diamm": "115.070",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1224": {
+			"model": "ISUZU",
+			"modelno": ["6SD1"],
+			"cylinder" : "6",
+			"diamm": "120.000",
+			"refno" : ["1-11261-106-2"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1225": {
+			"model": "ISUZU",
+			"modelno": ["6WA1"],
+			"cylinder" : "6",
+			"diamm": "132.900",
+			"refno" : ["1-11261-2-0"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1226": {
+			"model": "ISUZU",
+			"modelno": ["E120","6RA1","6RB1"],
+			"cylinder" : "6",
+			"diamm": "135.000",
+			"refno" : ["1-11261-105-1","1-11261-116/290","1-11261-133/082"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1227": {
+			"model": "ISUZU",
+			"modelno": ["6WG1"],
+			"cylinder" : "6",
+			"diamm": "147.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1228": {
+			"model": "INNOCENTI",
+			"modelno": ["A1122B2"],
+			"cylinder" : "",
+			"diamm": "65.000",
+			"refno" : ["AE 21205402"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1229": {
+			"model": "INNOCENTI",
+			"modelno": ["127AB/AJ/AE"],
+			"cylinder" : "",
+			"diamm": "76.000",
+			"refno" : ["AE 21207702"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1230": {
+			"model": "JAGUAR",
+			"modelno": ["X- TYPE 2.2D","LJ46G"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1231": {
+			"model": "JOHNDEERE",
+			"modelno": ["TRACTOR T100/1.010","CRAWIER JD 450","3120 /3152 /6303","JD 410 / JD 544"],
+			"cylinder" : "3/4/6",
+			"diamm": "98.044",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1232": {
+			"model": "JOHNDEERE",
+			"modelno": ["3164 DL 01","SCHIPPER 1520","SCHIPPER 2030/2120","TRACTOR 1520/3120","JD 450B"],
+			"cylinder" : "3/4/6",
+			"diamm": "102.000",
+			"refno" : ["14-452740-00","KS # 89 036 110"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/JOHN DEERE/JOHN-DEERE.jpg"
+		},
+		"PL-S-1233": {
+			"model": "JOHNDEERE",
+			"modelno": ["3.179 DL","4.039 / 6.059","6400"],
+			"cylinder" : "3/4/6",
+			"diamm": "106.500",
+			"refno" : ["R 80500","KS # 89 028 110"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/JOHN DEERE/JOHN-DEERE.jpg"
+		},
+		"PL-S-1234": {
+			"model": "JOHNDEERE",
+			"modelno": ["POWER TECH 6.8T","4045 T","6068 T","JD 555"],
+			"cylinder" : "3/4/6",
+			"diamm": "106.500",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1235": {
+			"model": "JOHNDEERE",
+			"modelno": [""],
+			"cylinder" : "",
+			"diamm": "109.730",
+			"refno" : ["670294 C1"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1236": {
+			"model": "JOHNDEERE",
+			"modelno": ["4240"],
+			"cylinder" : "",
+			"diamm": "115.870",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/JOHN DEERE/JOHN-DEERE.jpg"
+		},
+		"PL-S-1237": {
+			"model": "JOHNDEERE",
+			"modelno": [""],
+			"cylinder" : "",
+			"diamm": "115.900",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/JOHN DEERE/JOHNDEERE-116.jpg"
+		},
+		"PL-S-1238": {
+			"model": "KOMATSU",
+			"modelno": ["4D 92"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["6140-21-2211"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1239": {
+			"model": "KOMATSU",
+			"modelno": ["4D 94"],
+			"cylinder" : "4",
+			"diamm": "94.000",
+			"refno" : ["6144-21-2211"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1240": {
+			"model": "KOMATSU",
+			"modelno": ["4D 95","6D 95"],
+			"cylinder" : "4/6",
+			"diamm": "95.000",
+			"refno" : ["6207-21-2121","6207-21-2110","6207-21-2210"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/IVECO/IVECO-104.jpg"
+		},
+		"PL-S-1241": {
+			"model": "KOMATSU",
+			"modelno": ["S6D 102"],
+			"cylinder" : "6",
+			"diamm": "102.000",
+			"refno" : ["6736-29-2110"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1242": {
+			"model": "KOMATSU",
+			"modelno": ["4D 105","6D 105"],
+			"cylinder" : "4/6",
+			"diamm": "105.000",
+			"refno" : ["6137-21-2210","6136-21-2210"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/KOMATSU/KOMATSU-6D105.jpg"
+		},
+		"PL-S-1243": {
+			"model": "KOMATSU",
+			"modelno": ["6D 108"],
+			"cylinder" : "6",
+			"diamm": "108.000",
+			"refno" : ["6222-21-2110","6222-21-2210","6222-23-2211"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/KOMATSU/KOMATSU-6D105.jpg"
+		},
+		"PL-S-1244": {
+			"model": "KOMATSU",
+			"modelno": ["6D 110"],
+			"cylinder" : "6",
+			"diamm": "110.000",
+			"refno" : ["6138-21-2211","6138-21-2210","6138-21-2220"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/KOMATSU/KOMATSU-6D105.jpg"
+		},
+		"PL-S-1245": {
+			"model": "KOMATSU",
+			"modelno": ["6D 125"],
+			"cylinder" : "6",
+			"diamm": "125.000",
+			"refno" : ["6150-21-2221","6150-21-2220","6151-22-2220"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/KOMATSU/KOMATSU-6D125.jpg"
+		},
+		"PL-S-1246": {
+			"model": "KOMATSU",
+			"modelno": ["4D 130"],
+			"cylinder" : "4",
+			"diamm": "130.000",
+			"refno" : [""],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1247": {
+			"model": "KOMATSU",
+			"modelno": ["NH 220"],
+			"cylinder" : "6",
+			"diamm": "130.175",
+			"refno" : ["6610-21-2213","6610-21-2212"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1248": {
+			"model": "KOMATSU",
+			"modelno": ["NT 855"],
+			"cylinder" : "6",
+			"diamm": "139.700",
+			"refno" : ["6710-21-2210"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/CUMMINS/CUMMINS-NT-855.JPG"
+		},
+		"PL-S-1249": {
+			"model": "KOMATSU",
+			"modelno": ["6D 140"],
+			"cylinder" : "6",
+			"diamm": "140.000",
+			"refno" : ["6211-21-2210","6211-22-2220"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1250": {
+			"model": "KOMATSU",
+			"modelno": ["6D 155"],
+			"cylinder" : "6",
+			"diamm": "155.000",
+			"refno" : ["6128-21-2214","6128-21-2215"],
+			"category" : ["EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/KOMATSU/KOMATSU-6D155.jpg"
+		},
+		"PL-S-1251": {
+			"model": "KUBOTA",
+			"modelno": ["RK 50"],
+			"cylinder" : "1",
+			"diamm": "72.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1252": {
+			"model": "KUBOTA",
+			"modelno": ["KND 40"],
+			"cylinder" : "1",
+			"diamm": "75.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1253": {
+			"model": "KUBOTA",
+			"modelno": ["GA 70","ER 40"],
+			"cylinder" : "1",
+			"diamm": "75.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1254": {
+			"model": "KUBOTA",
+			"modelno": ["E 60"],
+			"cylinder" : "",
+			"diamm": "75.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1255": {
+			"model": "KUBOTA",
+			"modelno": ["RK 60"],
+			"cylinder" : "",
+			"diamm": "76.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/RK/RK-60.jpg"
+		},
+		"PL-S-1256": {
+			"model": "KUBOTA",
+			"modelno": ["L 2000","V1500","D 1100"],
+			"cylinder" : "3",
+			"diamm": "76.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1257": {
+			"model": "KUBOTA",
+			"modelno": ["ET 70"],
+			"cylinder" : "",
+			"diamm": "78.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1258": {
+			"model": "KUBOTA",
+			"modelno": ["KND 5B"],
+			"cylinder" : "1",
+			"diamm": "80.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1259": {
+			"model": "KUBOTA",
+			"modelno": ["RD 65"],
+			"cylinder" : "1",
+			"diamm": "80.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1260": {
+			"model": "KUBOTA",
+			"modelno": ["RK 70"],
+			"cylinder" : "1",
+			"diamm": "80.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1261": {
+			"model": "KUBOTA",
+			"modelno": ["GA 80"],
+			"cylinder" : "1",
+			"diamm": "82.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1262": {
+			"model": "KUBOTA",
+			"modelno": ["L 2601","D 1301"],
+			"cylinder" : "3",
+			"diamm": "82.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1263": {
+			"model": "KUBOTA",
+			"modelno": ["KND 80"],
+			"cylinder" : "",
+			"diamm": "84.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1264": {
+			"model": "KUBOTA",
+			"modelno": ["ET 80"],
+			"cylinder" : "3",
+			"diamm": "84.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1265": {
+			"model": "KUBOTA",
+			"modelno": ["L 2602","D1402 / V1902"],
+			"cylinder" : "1",
+			"diamm": "85.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1266": {
+			"model": "KUBOTA",
+			"modelno": ["RD 85"],
+			"cylinder" : "1",
+			"diamm": "86.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1267": {
+			"model": "KUBOTA",
+			"modelno": ["KND 90A"],
+			"cylinder" : "1",
+			"diamm": "86.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/KUBOTA KND/KUBOTA-KND-90A.jpg"
+		},
+		"PL-S-1268": {
+			"model": "KUBOTA",
+			"modelno": ["ET 95"],
+			"cylinder" : "1",
+			"diamm": "86.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1269": {
+			"model": "KUBOTA",
+			"modelno": ["L 3608"],
+			"cylinder" : "4",
+			"diamm": "87.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1270": {
+			"model": "KUBOTA",
+			"modelno": ["ER 65"],
+			"cylinder" : "1",
+			"diamm": "90.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1271": {
+			"model": "KUBOTA",
+			"modelno": ["GA 100"],
+			"cylinder" : "1",
+			"diamm": "90.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1272": {
+			"model": "KUBOTA",
+			"modelno": ["RD 105"],
+			"cylinder" : "1",
+			"diamm": "92.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1273": {
+			"model": "KUBOTA",
+			"modelno": ["ET 110"],
+			"cylinder" : "1",
+			"diamm": "92.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1274": {
+			"model": "KUBOTA",
+			"modelno": ["ET 115"],
+			"cylinder" : "1",
+			"diamm": "94.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1275": {
+			"model": "KUBOTA",
+			"modelno": ["ET 115"],
+			"cylinder" : "1",
+			"diamm": "94.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1276": {
+			"model": "KUBOTA",
+			"modelno": ["57504"],
+			"cylinder" : "1",
+			"diamm": "100.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1277": {
+			"model": "KUBOTA",
+			"modelno": ["V 4000"],
+			"cylinder" : "1",
+			"diamm": "105.000",
+			"refno" : ["16540-99630"],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1278": {
+			"model": "KUBOTA",
+			"modelno": ["LUCK","V 4300"],
+			"cylinder" : "1",
+			"diamm": "109.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1279": {
+			"model": "KUBOTA",
+			"modelno": ["KND 220"],
+			"cylinder" : "1",
+			"diamm": "116.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1280": {
+			"model": "LANCIA",
+			"modelno": ["A112-0.9","A112A.000"],
+			"cylinder" : "",
+			"diamm": "65.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1281": {
+			"model": "LANCIA",
+			"modelno": ["Y10- 1.01/4WD","156A2.00"],
+			"cylinder" : "",
+			"diamm": "70.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1282": {
+			"model": "LANCIA",
+			"modelno": ["KAPPA2.4TDS","83843","THESIS 2.4D"],
+			"cylinder" : "",
+			"diamm": "",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1283": {
+			"model": "LANCIA",
+			"modelno": ["DEBRA1.9TDS","PRISMA 1.9D","DELTA II - 1.9D"],
+			"cylinder" : "",
+			"diamm": "82.600",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1284": {
+			"model": "LANCIA",
+			"modelno": ["THEMA2500 DS","SW2500DS"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : ["8144.91"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1285": {
+			"model": "LANCIA",
+			"modelno": ["THEME2500D","5144.90 SOFIM"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1286": {
+			"model": "KIA",
+			"modelno": ["R2","BESTA BOX"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["SU 351297","R2B6-11-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1287": {
+			"model": "KIA",
+			"modelno": ["Z B"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["SJ 351254V1"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1288": {
+			"model": "KIA",
+			"modelno": ["SF","SERIES 2.4","K 2400"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["K756-10-311","K456-10-311","1456-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1289": {
+			"model": "KIA",
+			"modelno": ["R F A","H1-BESTA 2.7"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : ["T02-VIV01-10-311","OVN01-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1290": {
+			"model": "KIA",
+			"modelno": ["J S","K 2700 (FRONTIER)"],
+			"cylinder" : "4",
+			"diamm": "94.500",
+			"refno" : ["K65A-10-311","OK65A-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1291": {
+			"model": "KIA",
+			"modelno": ["J T"],
+			"cylinder" : "4",
+			"diamm": "98.000",
+			"refno" : ["OK75A-10-311","K75A-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1292": {
+			"model": "KIA",
+			"modelno": ["SH / JD","K 3600 / K 3500"],
+			"cylinder" : "4",
+			"diamm": "100.000",
+			"refno" : ["SJ 351256","SL01-23-051"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1293": {
+			"model": "KIA",
+			"modelno": ["EM 100"],
+			"cylinder" : "4",
+			"diamm": "124.000",
+			"refno" : ["SJ 351311","11467-1661-71"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1294": {
+			"model": "LEYLAND",
+			"modelno": ["15 T"],
+			"cylinder" : "4",
+			"diamm": "73.012",
+			"refno" : ["SU498901"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1295": {
+			"model": "LEYLAND",
+			"modelno": ["B SR."],
+			"cylinder" : "4",
+			"diamm": "79.845",
+			"refno" : ["SU3270"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1296": {
+			"model": "LEYLAND",
+			"modelno": ["B SR."],
+			"cylinder" : "4",
+			"diamm": "80.251",
+			"refno" : ["SU351084","SU3588"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1297": {
+			"model": "LEYLAND",
+			"modelno": ["224UA"],
+			"cylinder" : "",
+			"diamm": "82.550",
+			"refno" : ["SJ221802","SU221801"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1298": {
+			"model": "LEYLAND",
+			"modelno": ["XUD9","XUD9A","B"],
+			"cylinder" : "",
+			"diamm": "83.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1299": {
+			"model": "LEYLAND",
+			"modelno": ["O SR."],
+			"cylinder" : "",
+			"diamm": "84.442",
+			"refno" : ["SU4279"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1300": {
+			"model": "LEYLAND",
+			"modelno": ["ER SR. 254"],
+			"cylinder" : "4",
+			"diamm": "84.938",
+			"refno" : ["SU3969"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1301": {
+			"model": "LEYLAND",
+			"modelno": ["12J","SHERPA"],
+			"cylinder" : "",
+			"diamm": "90.475",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1302": {
+			"model": "LEYLAND",
+			"modelno": ["D3.15"],
+			"cylinder" : "4",
+			"diamm": "91.491",
+			"refno" : ["SU0201","SJ546900"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1303": {
+			"model": "LEYLAND",
+			"modelno": ["A3.152"],
+			"cylinder" : "",
+			"diamm": "91.490",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1304": {
+			"model": "LEYLAND",
+			"modelno": ["XD3/XD3P"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1305": {
+			"model": "LEYLAND",
+			"modelno": ["34T","LINER"],
+			"cylinder" : "4",
+			"diamm": "95.000",
+			"refno" : ["SJ259100","SJ259102"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1306": {
+			"model": "LEYLAND",
+			"modelno": ["4/98DT","LINER"],
+			"cylinder" : "4",
+			"diamm": "98.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1307": {
+			"model": "LEYLAND",
+			"modelno": ["400","401","402"],
+			"cylinder" : "",
+			"diamm": "107.226",
+			"refno" : ["SJ351081"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1308": {
+			"model": "LEYLAND",
+			"modelno": ["400","401","402"],
+			"cylinder" : "",
+			"diamm": "107.226",
+			"refno" : ["SJ98402"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-400.jpg"
+		},
+		"PL-S-1309": {
+			"model": "LEYLAND",
+			"modelno": ["V.510/AV8.510"],
+			"cylinder" : "",
+			"diamm": "107.950",
+			"refno" : ["SJ351207"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1310": {
+			"model": "LEYLAND",
+			"modelno": ["0500/0502"],
+			"cylinder" : "",
+			"diamm": "118.001",
+			"refno" : ["SJ351153","SU351184"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1311": {
+			"model": "LEYLAND",
+			"modelno": ["0600 P.PMKI/2"],
+			"cylinder" : "",
+			"diamm": "121.935",
+			"refno" : ["SJ52200"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1312": {
+			"model": "LEYLAND",
+			"modelno": ["680"],
+			"cylinder" : "",
+			"diamm": "121.935",
+			"refno" : ["SJ52200"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1313": {
+			"model": "LEYLAND",
+			"modelno": ["KT191"],
+			"cylinder" : "6",
+			"diamm": "130.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1314": {
+			"model": "LAND ROVER",
+			"modelno": ["159CC 1SL"],
+			"cylinder" : "4",
+			"diamm": "69.500",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1315": {
+			"model": "LAND ROVER",
+			"modelno": ["1997CC","2LK S42300"],
+			"cylinder" : "4",
+			"diamm": "77.800",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1316": {
+			"model": "LAND ROVER",
+			"modelno": ["FREELANDER 1.8","2.5","18KUF K SR.","25KUF"],
+			"cylinder" : "4",
+			"diamm": "80.000",
+			"refno" : ["SJ4308"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1317": {
+			"model": "LAND ROVER",
+			"modelno": ["FREELANDER M47R","11H","88 SR.II/109 SR.II"],
+			"cylinder" : "4",
+			"diamm": "84.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1318": {
+			"model": "LAND ROVER",
+			"modelno": ["3525-S44244"],
+			"cylinder" : "4",
+			"diamm": "88.862",
+			"refno" : ["SU4244"],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1319": {
+			"model": "LAND ROVER",
+			"modelno": ["RANGE ROVER 3.9","3.9LEF1","DISCOVERY I 3.9"],
+			"cylinder" : "4",
+			"diamm": "94.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1320": {
+			"model": "LAND ROVER",
+			"modelno": ["2.3L/10JS","2286-S4494402","88 SR.II/109 SR."],
+			"cylinder" : "4",
+			"diamm": "90.475",
+			"refno" : ["SU494402"],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1321": {
+			"model": "LAND ROVER",
+			"modelno": ["2.3L/10JS","2286-S4494402","88 SR.II/109 SR."],
+			"cylinder" : "4",
+			"diamm": "90.475",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1322": {
+			"model": "LDV",
+			"modelno": ["400BOX 2.5D","400BOX 2.5D","CONVYBOX 2.5D"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1323": {
+			"model": "LADA",
+			"modelno": ["NIVA 1900D","XUD9A"],
+			"cylinder" : "",
+			"diamm": "83.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1324": {
+			"model": "LOTUS",
+			"modelno": ["E/1SE 1.8-16V","18KUF"],
+			"cylinder" : "",
+			"diamm": "80.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1325": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 601.911","OM 602 .912","OM 604 / 605 / 606"],
+			"cylinder" : "4/6",
+			"diamm": "87.000",
+			"refno" : ["KS # 89 193 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1326": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 615"],
+			"cylinder" : "4/6",
+			"diamm": "87.000",
+			"refno" : ["KS # 89 588 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1327": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 615"],
+			"cylinder" : "4/6",
+			"diamm": "87.000",
+			"refno" : ["KS # 89 828 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1328": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 611 / 612","OM 613 / 646","OM 647 / 648"],
+			"cylinder" : "4/6",
+			"diamm": "88.000",
+			"refno" : ["KS # 89 866 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1329": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["M 103"],
+			"cylinder" : "6",
+			"diamm": "88.500",
+			"refno" : ["KS # 89 506 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1330": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 602.940","OM 661","OM 662"],
+			"cylinder" : "",
+			"diamm": "89.000",
+			"refno" : ["KS # 89 429 190","002 WV 04"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1331": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["M 102"],
+			"cylinder" : "",
+			"diamm": "89.000",
+			"refno" : ["KS # 89 342 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1332": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["M 102.919","M 102.939 / 965"],
+			"cylinder" : "",
+			"diamm": "89.000",
+			"refno" : ["14-025480-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1333": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 616","OM 617"],
+			"cylinder" : "",
+			"diamm": "91.000",
+			"refno" : ["KS # 88 681 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1334": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["M 942 / 943","M 959 / 979"],
+			"cylinder" : "",
+			"diamm": "95.500",
+			"refno" : ["KS # 89 508 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1335": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 314","OM 394","OM 352 / 353"],
+			"cylinder" : "",
+			"diamm": "97.000",
+			"refno" : ["KS # 89 177 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1336": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 314","OM 394","OM 352 / 353"],
+			"cylinder" : "",
+			"diamm": "97.000",
+			"refno" : ["KS # 89 178 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1337": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 314","OM 394","OM 352 / 353"],
+			"cylinder" : "",
+			"diamm": "97.000",
+			"refno" : ["14-025802-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1338": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 314","OM 394","OM 352 / 353"],
+			"cylinder" : "",
+			"diamm": "97.000",
+			"refno" : ["KS # 89 069 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1339": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 354","OM 304","OM 366","OM 357","OM 386"],
+			"cylinder" : "",
+			"diamm": "97.500",
+			"refno" : ["KS # 89 198 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1340": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 354","OM 304","OM 366","OM 357","OM 386"],
+			"cylinder" : "",
+			"diamm": "97.500",
+			"refno" : ["KS # 89 543 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1341": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 354","OM 304","OM 366","OM 357","OM 386"],
+			"cylinder" : "",
+			"diamm": "97.500",
+			"refno" : ["14-025802-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1342": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 354","OM 304","OM 366","OM 357","OM 386"],
+			"cylinder" : "",
+			"diamm": "97.500",
+			"refno" : ["14-025804-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1343": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 304","OM 504"],
+			"cylinder" : "",
+			"diamm": "97.500",
+			"refno" : ["KS # 89 198 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1344": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 902 / 904","OM 906 / 907 / 909","OM 924 / 926"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : ["KS # 89 513 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1345": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": [""],
+			"cylinder" : "",
+			"diamm": "115.000",
+			"refno" : ["KS # 89 043 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1346": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": [""],
+			"cylinder" : "",
+			"diamm": "115.000",
+			"refno" : ["KS # 89 046 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1347": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": [""],
+			"cylinder" : "",
+			"diamm": "115.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1348": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 401","OM 402","OM 403 LA","OM 404"],
+			"cylinder" : "8/10",
+			"diamm": "125.000",
+			"refno" : ["003 WN 14","KS # 89 181 110","403.011.3210"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1349": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": [""],
+			"cylinder" : "8/10",
+			"diamm": "125.000",
+			"refno" : ["003 WN 24","KS # 89 380 110","403.011.3410"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1350": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 421","OM 422","OM 423 / 424","OM 441 / 442","OM 443 LA"],
+			"cylinder" : "8/10",
+			"diamm": "128.000",
+			"refno" : ["003 WN 25","KS # 89 389 110","444.011.0110","444.011.0210"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/BENZ/BENZ-128.jpg"
+		},
+		"PL-S-1351": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": [""],
+			"cylinder" : "8/10",
+			"diamm": "128.000",
+			"refno" : ["003 WN 15","KS # 89 180 110","422.011.0310","423.011.0210"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/BENZ/BENZ-128.jpg"
+		},
+		"PL-S-1352": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 355"],
+			"cylinder" : "",
+			"diamm": "128.000",
+			"refno" : ["KS # 89 869 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1353": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 355"],
+			"cylinder" : "",
+			"diamm": "128.000",
+			"refno" : ["KS # 89 347 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1354": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 355"],
+			"cylinder" : "",
+			"diamm": "128.000",
+			"refno" : ["KS # 89 433 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1355": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 441","OM 442","OM 443","OM 444"],
+			"cylinder" : "6/8/10",
+			"diamm": "130.000",
+			"refno" : ["003 WN 23","KS # 89 396 110","442.011.0310"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1356": {
+			"model": "MERCEDESE - BENZ",
+			"modelno": ["OM 501","OM 502 LA"],
+			"cylinder" : "6/8/10",
+			"diamm": "130.000",
+			"refno" : ["003 WN 30 / 32","KS # 89 530 110","KS # 89 473 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1357": {
+			"model": "MINI",
+			"modelno": ["MINI COOPERC D","9HZ"],
+			"cylinder" : "",
+			"diamm": "75.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1358": {
+			"model": "MAN",
+			"modelno": ["D 0226"],
+			"cylinder" : "6",
+			"diamm": "102.000",
+			"refno" : ["227 WT 36","KS # 89 091 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1359": {
+			"model": "MAN",
+			"modelno": ["D 0226"],
+			"cylinder" : "6",
+			"diamm": "102.000",
+			"refno" : ["KS # 89 414 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1360": {
+			"model": "MAN",
+			"modelno": ["D 0824 / D 0826","D 0834 / D 0836"],
+			"cylinder" : "4/6",
+			"diamm": "108.000",
+			"refno" : ["227 WT 39","KS # 89 470 110","14-027680-00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1361": {
+			"model": "MAN",
+			"modelno": ["D 0824 / D 0826","D 0834 / D 0836"],
+			"cylinder" : "4/6",
+			"diamm": "108.000",
+			"refno" : ["14-027681-00","86 453 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1362": {
+			"model": "MAN",
+			"modelno": ["D 0824 / D 0826","D 0834 / D 0836"],
+			"cylinder" : "4/6",
+			"diamm": "108.000",
+			"refno" : ["227 WT 11","KS # 88 865 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1363": {
+			"model": "MAN",
+			"modelno": ["D 0824 / D 0826","D 0834 / D 0836"],
+			"cylinder" : "4/6",
+			"diamm": "108.000",
+			"refno" : ["KS # 88 866 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1364": {
+			"model": "MAN",
+			"modelno": ["D 0824 / D 0826","D 0834 / D 0836"],
+			"cylinder" : "4/6",
+			"diamm": "108.000",
+			"refno" : ["227 WT 41","KS # 89 009 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1365": {
+			"model": "MAN",
+			"modelno": ["D 0824 / D 0826","D 0834 / D 0836"],
+			"cylinder" : "4/6",
+			"diamm": "108.000",
+			"refno" : ["227 WT 07"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1366": {
+			"model": "MAN",
+			"modelno": ["D 2156"],
+			"cylinder" : "6",
+			"diamm": "121.000",
+			"refno" : ["227 WT 15 & WT 44","KS # 88 853 110","SJ 351145"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1367": {
+			"model": "MAN",
+			"modelno": ["D 2156"],
+			"cylinder" : "6",
+			"diamm": "121.000",
+			"refno" : ["227 WT 16","KS # 88 854 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1368": {
+			"model": "MAN",
+			"modelno": ["D 2156"],
+			"cylinder" : "6",
+			"diamm": "121.000",
+			"refno" : ["227 WT 46"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1369": {
+			"model": "MAN",
+			"modelno": ["D 2146"],
+			"cylinder" : "6",
+			"diamm": "121.000",
+			"refno" : ["227 WT 48","KS # 88 852 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1370": {
+			"model": "MAN",
+			"modelno": ["D 2356"],
+			"cylinder" : "6",
+			"diamm": "123.000",
+			"refno" : ["227 WT 19","KS # 88 871 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1371": {
+			"model": "MAN",
+			"modelno": ["D 2356"],
+			"cylinder" : "6",
+			"diamm": "123.000",
+			"refno" : ["227 WT 20","KS # 88 872 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1372": {
+			"model": "MAN",
+			"modelno": ["D 2356"],
+			"cylinder" : "6",
+			"diamm": "123.000",
+			"refno" : ["227 WT 21"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LEY/LEY-680.jpg"
+		},
+		"PL-S-1373": {
+			"model": "MAN",
+			"modelno": ["D 2530","D 2538"],
+			"cylinder" : "8/10",
+			"diamm": "125.000",
+			"refno" : ["227 WN 30","KS # 89 054 110","AE # 14-451090-00","51.01201.0299"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-128.jpg"
+		},
+		"PL-S-1374": {
+			"model": "MAN",
+			"modelno": ["D 2565","D 2566","D 2555","D 2556"],
+			"cylinder" : "8/10",
+			"diamm": "125.000",
+			"refno" : ["227 WN 32","KS # 89 056 110","51.01201.0296"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-128.jpg"
+		},
+		"PL-S-1375": {
+			"model": "MAN",
+			"modelno": ["D 2842","D 2840","D 2848"],
+			"cylinder" : "8/10",
+			"diamm": "128.000",
+			"refno" : ["227 WN 32","KS # 89 092 110","51.01201.0305"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-128.jpg"
+		},
+		"PL-S-1376": {
+			"model": "MAN",
+			"modelno": ["D 2866","D 2865","D 2876"],
+			"cylinder" : "8/10",
+			"diamm": "128.000",
+			"refno" : ["227 WN 37","KS # 89 186 120","51.01201.0309"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-128.jpg"
+		},
+		"PL-S-1377": {
+			"model": "MAN",
+			"modelno": ["D 2876","LF 12","EURO 3"],
+			"cylinder" : "6",
+			"diamm": "128.000",
+			"refno" : ["227 WN 65","KS # 89 595 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-D2876.jpg"
+		},
+		"PL-S-1378": {
+			"model": "MACK",
+			"modelno": ["END 673/5/6","E 6","ENDTB675C / ETYB673"],
+			"cylinder" : "6",
+			"diamm": "123.825",
+			"refno" : ["509 GC 284 AP","509 GC 284 AP1"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MACK/MACK-E6.jpg"
+		},
+		"PL-S-1379": {
+			"model": "MACK",
+			"modelno": ["E 7","ESL 8288"],
+			"cylinder" : "6",
+			"diamm": "123.825",
+			"refno" : ["509 GC 463"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MACK/Mack-E7G.jpg"
+		},
+		"PL-S-1380": {
+			"model": "MACK",
+			"modelno": ["E 7","ESL 8288"],
+			"cylinder" : "6",
+			"diamm": "123.825",
+			"refno" : ["509 GC 475"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MACK/MACK-E7.jpg"
+		},
+		"PL-S-1381": {
+			"model": "MITSUBISHI",
+			"modelno": ["4D 55","4D 56","PAJERO","L 200 / 300"],
+			"cylinder" : "4",
+			"diamm": "91.100",
+			"refno" : ["14-015590-00","KS # 89 463 190"],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1382": {
+			"model": "MITSUBISHI",
+			"modelno": ["4M 40"],
+			"cylinder" : "4",
+			"diamm": "95.000",
+			"refno" : ["KS # 89 824 190"],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1383": {
+			"model": "MITSUBISHI",
+			"modelno": ["ROSA","4D 30 / 4D 31","CANTER"],
+			"cylinder" : "4",
+			"diamm": "100.000",
+			"refno" : ["KS # 89 851 190"],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1384": {
+			"model": "MITSUBISHI",
+			"modelno": ["4D 32"],
+			"cylinder" : "4",
+			"diamm": "104.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1385": {
+			"model": "MITSUBISHI",
+			"modelno": ["4D 33","4D 34"],
+			"cylinder" : "4",
+			"diamm": "108.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1386": {
+			"model": "MITSUBISHI",
+			"modelno": ["6D 14"],
+			"cylinder" : "6",
+			"diamm": "110.000",
+			"refno" : ["ME 032216"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1387": {
+			"model": "MITSUBISHI",
+			"modelno": ["6DB1"],
+			"cylinder" : "6",
+			"diamm": "110.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1388": {
+			"model": "MITSUBISHI",
+			"modelno": ["6D 15"],
+			"cylinder" : "6",
+			"diamm": "113.000",
+			"refno" : ["ME 031656"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1389": {
+			"model": "MITSUBISHI",
+			"modelno": ["6D 16"],
+			"cylinder" : "6",
+			"diamm": "118.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/Mistsubishi/Mistsubishi-6D16.jpg"
+		},
+		"PL-S-1390": {
+			"model": "MITSUBISHI",
+			"modelno": ["6D 20","6D 21"],
+			"cylinder" : "6",
+			"diamm": "125.000",
+			"refno" : ["ME 051554","ME 051157"],
+			"category" : ["CAR"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1391": {
+			"model": "MITSUBISHI",
+			"modelno": ["8DC 20"],
+			"cylinder" : "8",
+			"diamm": "130.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1392": {
+			"model": "MITSUBISHI",
+			"modelno": ["6D 22"],
+			"cylinder" : "6",
+			"diamm": "130.000",
+			"refno" : ["ME 051217"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1393": {
+			"model": "MITSUBISHI",
+			"modelno": ["8DC 8"],
+			"cylinder" : "8",
+			"diamm": "135.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1394": {
+			"model": "MITSUBISHI",
+			"modelno": ["8DC 9"],
+			"cylinder" : "8",
+			"diamm": "135.000",
+			"refno" : ["ME 062602-4"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1395": {
+			"model": "MG",
+			"modelno": ["A SR."],
+			"cylinder" : "",
+			"diamm": "64.560",
+			"refno" : ["SU3367"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1396": {
+			"model": "MG",
+			"modelno": ["A SR.","MIDGETMKII/1300","MG METRO 1300"],
+			"cylinder" : "",
+			"diamm": "70.620",
+			"refno" : ["SU3598"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1397": {
+			"model": "MG",
+			"modelno": ["EXPRESS 1.4","MGZR105","14K4F"],
+			"cylinder" : "",
+			"diamm": "75.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1398": {
+			"model": "MG",
+			"modelno": ["B SR", "MGA"],
+			"cylinder" : "",
+			"diamm": "73.025",
+			"refno" : ["SU2447"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1399": {
+			"model": "MG",
+			"modelno": ["EXPRESS 1.8", "MGTF10/ZS","14K4F KCR"],
+			"cylinder" : "",
+			"diamm": "80.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1400": {
+			"model": "MG",
+			"modelno": ["BSR.MGB1800/GT"],
+			"cylinder" : "",
+			"diamm": "80.251",
+			"refno" : ["SU351084"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1401": {
+			"model": "MG",
+			"modelno": ["215CU I","MGB-GT V8"],
+			"cylinder" : "",
+			"diamm": "88.862",
+			"refno" : ["SU4244"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1402": {
+			"model": "MARELLI",
+			"modelno": ["AC 74.300/500"],
+			"cylinder" : "",
+			"diamm": "80.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1403": {
+			"model": "MAZDA",
+			"modelno": ["PB","B1000"],
+			"cylinder" : "4",
+			"diamm": "68.000",
+			"refno" : ["0249-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1404": {
+			"model": "MAZDA",
+			"modelno": ["TB","B1200"],
+			"cylinder" : "4",
+			"diamm": "70.000",
+			"refno" : ["0271-23-206","0268-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1405": {
+			"model": "MAZDA",
+			"modelno": ["UA","D1500/E1500"],
+			"cylinder" : "4",
+			"diamm": "75.000",
+			"refno" : ["0604-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1406": {
+			"model": "MAZDA",
+			"modelno": ["N","D1500/E1500"],
+			"cylinder" : "4",
+			"diamm": "78.000",
+			"refno" : ["305-23-208"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1407": {
+			"model": "MAZDA",
+			"modelno": ["PN"],
+			"cylinder" : "4",
+			"diamm": "78.000",
+			"refno" : ["PN11-11-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1408": {
+			"model": "MAZDA",
+			"modelno": ["MA","VC"],
+			"cylinder" : "4",
+			"diamm": "80.000",
+			"refno" : ["8173-23-206"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1409": {
+			"model": "MAZDA",
+			"modelno": ["VS","E200"],
+			"cylinder" : "4",
+			"diamm": "82.000",
+			"refno" : ["0552-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1410": {
+			"model": "MAZDA",
+			"modelno": ["F2"],
+			"cylinder" : "4",
+			"diamm": "82.000",
+			"refno" : ["F801-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1411": {
+			"model": "MAZDA",
+			"modelno": ["R2[NEW]"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["R26-10-311","R2B6-10-313"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1412": {
+			"model": "MAZDA",
+			"modelno": ["R2"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["SU351297","SU351275"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1413": {
+			"model": "MAZDA",
+			"modelno": ["R2"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["R2B6-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1414": {
+			"model": "MAZDA",
+			"modelno": ["RF","R2"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["R201-23-051"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1415": {
+			"model": "MAZDA",
+			"modelno": ["F2"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["F801-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1416": {
+			"model": "MAZDA",
+			"modelno": ["XA","E2500/T2500"],
+			"cylinder" : "4",
+			"diamm": "88.900",
+			"refno" : ["0636-10-311","S501-23-051"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1417": {
+			"model": "MAZDA",
+			"modelno": ["S2","B2200"],
+			"cylinder" : "4",
+			"diamm": "88.900",
+			"refno" : ["1456-23-051","SJ351253"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1418": {
+			"model": "MAZDA",
+			"modelno": ["XB","E2700","ZB T4100"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["0258-10.311","527-23-051","0552-10-311","SJ351254"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1419": {
+			"model": "MAZDA",
+			"modelno": ["WL"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : ["WL01-10-311","WLY3-23-051"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1420": {
+			"model": "MAZDA",
+			"modelno": ["JS"],
+			"cylinder" : "4",
+			"diamm": "94.500",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1421": {
+			"model": "MAZDA",
+			"modelno": ["HA","E3000/T3000"],
+			"cylinder" : "4",
+			"diamm": "95.000",
+			"refno" : ["1363-23-051","SE01-23-051","SU351229"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1422": {
+			"model": "MAZDA",
+			"modelno": ["VS"],
+			"cylinder" : "4",
+			"diamm": "98.000",
+			"refno" : ["VSY1-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1423": {
+			"model": "MAZDA",
+			"modelno": ["SL","T3500/TF4000"],
+			"cylinder" : "4",
+			"diamm": "100.000",
+			"refno" : ["SL01-23-051","SL01-23-313","351256A/B"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1424": {
+			"model": "MAZDA",
+			"modelno": ["TF","T4000"],
+			"cylinder" : "4",
+			"diamm": "105.500",
+			"refno" : ["TFY0-10-311","TFY0-10-313"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1425": {
+			"model": "MAZDA",
+			"modelno": ["TM","T4500"],
+			"cylinder" : "4",
+			"diamm": "109.000",
+			"refno" : ["TMY0-10-311"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1426": {
+			"model": "MAHINDRA",
+			"modelno": ["INTER B275"],
+			"cylinder" : "",
+			"diamm": "85.730",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAHINDRA/MAHINDRA-DI-265.jpg"
+		},
+		"PL-S-1427": {
+			"model": "MAHINDRA",
+			"modelno": ["INTER 434"],
+			"cylinder" : "",
+			"diamm": "88.900",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAHINDRA/MAHINDRA-DI-265.jpg"
+		},
+		"PL-S-1428": {
+			"model": "MAHINDRA",
+			"modelno": ["DI 245"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : ["00600 409H1"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1429": {
+			"model": "MAHINDRA",
+			"modelno": ["DI 265 / 475"],
+			"cylinder" : "",
+			"diamm": "88.900",
+			"refno" : ["5557 311"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAHINDRA/MAHINDRA-DI-265.jpg"
+		},
+		"PL-S-1430": {
+			"model": "MAHINDRA",
+			"modelno": ["DI 575 / 444"],
+			"cylinder" : "",
+			"diamm": "88.900",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAHINDRA/MAHINDRA-DI-265.jpg"
+		},
+		"PL-S-1431": {
+			"model": "MAHINDRA",
+			"modelno": ["PEUGEOUT OLD"],
+			"cylinder" : "",
+			"diamm": "90.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1432": {
+			"model": "MAHINDRA",
+			"modelno": ["PEUGEOUT NEW"],
+			"cylinder" : "",
+			"diamm": "90.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1433": {
+			"model": "MAHINDRA",
+			"modelno": ["XDP"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1434": {
+			"model": "MAHINDRA",
+			"modelno": ["ARJUN"],
+			"cylinder" : "",
+			"DIamm": "94.000",
+			"refno" : ["020899"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1435": {
+			"model": "MAHINDRA",
+			"modelno": ["SCORPIO"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : ["022646"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAHINDRA/MAHINDRA-SCORPIO.jpg"
+		},
+		"PL-S-1436": {
+			"model": "MAHINDRA",
+			"modelno": ["ARJUN NEW"],
+			"cylinder" : "",
+			"diamm": "96.000",
+			"refno" : ["006003829 D1"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1437": {
+			"model": "NEW HOLLAND",
+			"modelno": ["614.010","615.000"],
+			"cylinder" : "2/3",
+			"diamm": "85.000",
+			"refno" : ["14-11031-00D"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1438": {
+			"model": "NEW HOLLAND",
+			"modelno": ["8025.01","8025.01.265"],
+			"cylinder" : "2/3/4",
+			"diamm": "95.000",
+			"refno" : ["14-010620-00 D","14-0110600 D"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1439": {
+			"model": "NEW HOLLAND",
+			"modelno": ["8025.02","8035.02","8045.02"],
+			"cylinder" : "2/3/4/6",
+			"diamm": "100.000",
+			"refno" : ["14-021540-00 D"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1440": {
+			"model": "NEW HOLLAND",
+			"modelno": ["8025/35/45","8065.02"],
+			"cylinder" : "2/3/4/6",
+			"diamm": "100.000",
+			"refno" : ["14-010170-00D","14-011021-00D","14-011022-00D"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1441": {
+			"model": "NEW HOLLAND",
+			"modelno": ["8035.04/8045","8061 L"],
+			"cylinder" : "6",
+			"diamm": "103.000",
+			"refno" : ["14-01080-00D","14-010181/82.00D"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1442": {
+			"model": "NEW HOLLAND",
+			"modelno": ["8061 L","8065.24"],
+			"cylinder" : "6",
+			"diamm": "103.000",
+			"refno" : ["14-023551-00D","14-023552-00D","14-023553-00D"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1443": {
+			"model": "NEW HOLLAND",
+			"modelno": ["8035.05/8045.05","8055.05/8065.04","8061.05"],
+			"cylinder" : "3/4/5/6",
+			"diamm": "104.000",
+			"refno" : ["14-010940-00","14-01094-00","14-010942-00","14-010943-00D"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1444": {
+			"model": "NEW HOLLAND",
+			"modelno": ["8035/45/55/5.05","8061.05"],
+			"cylinder" : "3/4/5/6",
+			"diamm": "104.000",
+			"refno" : ["14-021361-00","14-021362-00","14-021363-00","14-021492/3/4"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1450": {
+			"model": "NISSAN",
+			"modelno": ["A 12"],
+			"cylinder" : "4",
+			"diamm": "73.000",
+			"refno" : ["11012-H1011"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1451": {
+			"model": "NISSAN",
+			"modelno": ["J 13"],
+			"cylinder" : "4",
+			"diamm": "73.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1452": {
+			"model": "NISSAN",
+			"modelno": ["A 14"],
+			"cylinder" : "4",
+			"diamm": "76.000",
+			"refno" : ["11012-H7685"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1453": {
+			"model": "NISSAN",
+			"modelno": ["GA 16"],
+			"cylinder" : "4",
+			"diamm": "76.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1454": {
+			"model": "NISSAN",
+			"modelno": ["E 13 / E 15","A 15"],
+			"cylinder" : "4",
+			"diamm": "76.000",
+			"refno" : ["11012-H9820","11012-11M20","11012-11M00","11012-H9700"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1455": {
+			"model": "NISSAN",
+			"modelno": ["CA 16","J 15"],
+			"cylinder" : "4",
+			"diamm": "77.950",
+			"refno" : ["11012-06E01","11012-B300"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1456": {
+			"model": "NISSAN",
+			"modelno": ["CD 17"],
+			"cylinder" : "4",
+			"diamm": "80.000",
+			"refno" : ["11012-164A00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1457": {
+			"model": "NISSAN",
+			"modelno": ["CD 17"],
+			"cylinder" : "4",
+			"diamm": "80.000",
+			"refno" : ["11012-16A1"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1458": {
+			"model": "NISSAN",
+			"modelno": ["J 18"],
+			"cylinder" : "4",
+			"diamm": "80.500",
+			"refno" : ["12010-01W12"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1459": {
+			"model": "NISSAN",
+			"modelno": ["L 16 / CA18"],
+			"cylinder" : "4",
+			"diamm": "83.000",
+			"refno" : ["1-1102-21010","11012-D0300"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1460": {
+			"model": "NISSAN",
+			"modelno": ["SD 20/SD 22","SD 33"],
+			"cylinder" : "4",
+			"diamm": "83.000",
+			"refno" : ["11012-16200","11012-76201"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1461": {
+			"model": "NISSAN",
+			"modelno": ["CA 20 / CD 20","LD 28"],
+			"cylinder" : "4",
+			"diamm": "84.500",
+			"refno" : ["11012-V07000"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1462": {
+			"model": "NISSAN",
+			"modelno": ["L 18 / RD28"],
+			"cylinder" : "4",
+			"diamm": "85.000",
+			"refno" : ["11012-A8701","11012-22J64T"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1463": {
+			"model": "NISSAN",
+			"modelno": ["LD20/Z20"],
+			"cylinder" : "4",
+			"diamm": "85.000",
+			"refno" : ["11012-W1411","11012-W1702","11012-V2070"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1464": {
+			"model": "NISSAN",
+			"modelno": ["Z 22"],
+			"cylinder" : "4",
+			"diamm": "87.000",
+			"refno" : ["1-D1801"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1465": {
+			"model": "NISSAN",
+			"modelno": ["H 20"],
+			"cylinder" : "4",
+			"diamm": "87.020",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1466": {
+			"model": "NISSAN",
+			"modelno": ["Z24"],
+			"cylinder" : "4",
+			"diamm": "89.000",
+			"refno" : ["11012-10W01"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1467": {
+			"model": "NISSAN",
+			"modelno": ["SD23/SD25","TD23"],
+			"cylinder" : "4",
+			"diamm": "89.000",
+			"refno" : ["11012-L2002-03","11012-02N10"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1468": {
+			"model": "NISSAN",
+			"modelno": ["TD25/BD25"],
+			"cylinder" : "4",
+			"diamm": "92.900",
+			"refno" : ["11012-44G10","11012-87G00","11012-44G05"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1469": {
+			"model": "NISSAN",
+			"modelno": ["TD27/TD42","BD30"],
+			"cylinder" : "4",
+			"diamm": "96.000",
+			"refno" : ["11012-2S000","11012-43G05","11012-43G10","11012-06J10"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1470": {
+			"model": "NISSAN",
+			"modelno": ["QD32"],
+			"cylinder" : "4",
+			"diamm": "99.200",
+			"refno" : ["11012-2S611"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1471": {
+			"model": "NISSAN",
+			"modelno": ["FE6"],
+			"cylinder" : "6",
+			"diamm": "108.000",
+			"refno" : ["11012-Z5518"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1472": {
+			"model": "NISSAN",
+			"modelno": ["FE6 NEW"],
+			"cylinder" : "6",
+			"diamm": "108.000",
+			"refno" : ["11012-Z5604-5"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1473": {
+			"model": "NISSAN",
+			"modelno": ["ND6/NE6","ND6/NE6"],
+			"cylinder" : "6",
+			"diamm": "110.000",
+			"refno" : ["11012-95001-2","11012-9506-6"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1474": {
+			"model": "NISSAN",
+			"modelno": ["PD6","PD6T"],
+			"cylinder" : "6",
+			"diamm": "125.000",
+			"refno" : ["11012-96000-1"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1475": {
+			"model": "NISSAN",
+			"modelno": ["PE 6"],
+			"cylinder" : "6",
+			"diamm": "133.000",
+			"refno" : ["11012-96500-1"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1476": {
+			"model": "NISSAN",
+			"modelno": ["PF6T","PE6TNEW"],
+			"cylinder" : "6",
+			"diamm": "133.000",
+			"refno" : ["11012-96565-1","11012-96576"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1477": {
+			"model": "NISSAN",
+			"modelno": ["RD8","LINER"],
+			"cylinder" : "6",
+			"diamm": "135.000",
+			"refno" : ["11012-97001","11012-97025","11012-97063"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1478": {
+			"model": "VAUXHALL",
+			"modelno": ["CORSAMK II-1.5","NOVA/ASTRA-15D/T"],
+			"cylinder" : "4",
+			"diamm": "76.000",
+			"refno" : ["14-010870-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1479": {
+			"model": "VAUXHALL",
+			"modelno": ["ASTRA EST 1.6D","CAVALIOR","16D/16DA"],
+			"cylinder" : "4",
+			"diamm": "80.000",
+			"refno" : ["14-010870-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1480": {
+			"model": "VAUXHALL",
+			"modelno": ["ASTRA/CAVALIOR","17D/17DR"],
+			"cylinder" : "4",
+			"diamm": "82.500",
+			"refno" : ["14-021200-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1481": {
+			"model": "VAUXHALL",
+			"modelno": ["ASTRA/VECTRA","ZAFIRA 2.0D","X20DTL/Y20DTL"],
+			"cylinder" : "4",
+			"diamm": "84.000",
+			"refno" : ["14-102800-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1482": {
+			"model": "VAUXHALL",
+			"modelno": ["ASTRA/VECTRA 2.2","Z22SE"],
+			"cylinder" : "4",
+			"diamm": "86.000",
+			"refno" : ["14-020450-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1483": {
+			"model": "VAUXHALL",
+			"modelno": ["BRAVAPICKUP2.2D","C223"],
+			"cylinder" : "4",
+			"diamm": "88.000",
+			"refno" : ["14-021440-00","14-021190-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1484": {
+			"model": "VAUXHALL",
+			"modelno": ["CARLTON 2.3D","FRONTERA 2.3D","23D/23DYDT"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["14-024100-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1485": {
+			"model": "VAUXHALL",
+			"modelno": ["ARENA COMBI/VAN","2.3D","584758"],
+			"cylinder" : "4",
+			"diamm": "93.000",
+			"refno" : ["14-021280-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1486": {
+			"model": "VAUXHALL",
+			"modelno": ["MOVANO","8140.23.2585"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : ["14-021321-00","14-021322-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1487": {
+			"model": "OPEL",
+			"modelno": ["CORSA 1.5D","KADETT E 1.5 TD","15D 4EC1"],
+			"cylinder" : "",
+			"diamm": "76.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1488": {
+			"model": "OPEL",
+			"modelno": ["ASCONAC 1.6D","KADETT E 1.6D","16D/160A"],
+			"cylinder" : "",
+			"diamm": "80.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1489": {
+			"model": "OPEL",
+			"modelno": ["ASTRA F 1.7D","VECTRA A1.7D","17 DR"],
+			"cylinder" : "",
+			"diamm": "82.50",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1490": {
+			"model": "OPEL",
+			"modelno": ["ASTRA GBOX 2.0 D1","VECTRA 2.0D","X20DTL"],
+			"cylinder" : "",
+			"diamm": "84.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1491": {
+			"model": "OPEL",
+			"modelno": ["ASTRA G COUPE 2.2","SPEEDSTER Z-225E"],
+			"cylinder" : "",
+			"diamm": "86.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1492": {
+			"model": "OPEL",
+			"modelno": ["REKORD D 2.1 D","REKORD E 2.1 D"],
+			"cylinder" : "",
+			"diamm": "88.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1493": {
+			"model": "OPEL",
+			"modelno": ["CAMPRO 2.2 D","C 223"],
+			"cylinder" : "",
+			"diamm": "88.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1494": {
+			"model": "OPEL",
+			"modelno": ["REKORD E 2.2 D","OMEGA A 2.3","23D / 23 YDT"],
+			"cylinder" : "",
+			"diamm": "92.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1495": {
+			"model": "OPEL",
+			"modelno": ["MOVANO","8140.23.2585"],
+			"cylinder" : "",
+			"diamm": "94.40",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1496": {
+			"model": "PERKINS",
+			"modelno": ["4.107"],
+			"cylinder" : "4",
+			"diamm": "79.380",
+			"refno" : ["15-370040-00","31358116"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1497": {
+			"model": "PERKINS",
+			"modelno": ["4.108"],
+			"cylinder" : "4",
+			"diamm": "79.390",
+			"refno" : ["14-010900","31358117","KS # 88 495 190"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1498": {
+			"model": "PERKINS",
+			"modelno": ["403/404 SERIES","MF 35 / MF 702","MF 835"],
+			"cylinder" : "",
+			"diamm": "84.137",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1499": {
+			"model": "PERKINS",
+			"modelno": ["P3","A 3.144","A 4.192","P 6.288"],
+			"cylinder" : "3/4/6",
+			"diamm": "88.925",
+			"refno" : ["731595 M1","KS # 88 364 190","14-021240-00","530002","043 WV 17"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1500": {
+			"model": "PERKINS",
+			"modelno": ["P3 DI","1035 DI","MF 35"],
+			"cylinder" : "3/4/6",
+			"diamm": "89.020",
+			"refno" : ["530006"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1501": {
+			"model": "PERKINS",
+			"modelno": ["MF 135/240/245/250","3.152","4.203"],
+			"cylinder" : "3",
+			"diamm": "90.700",
+			"refno" : ["31358323","02130001","KS # 88 363 190"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1502": {
+			"model": "PERKINS",
+			"modelno": ["MF 135/240/245/250","3.152","4.203"],
+			"cylinder" : "3",
+			"diamm": "91.490",
+			"refno" : ["31358322","31358345","739043 M1","KS # 88 552 110"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1503": {
+			"model": "PERKINS",
+			"modelno": ["4.165"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["KS # 89 025 190","14-043450-00"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1504": {
+			"model": "PERKINS",
+			"modelno": ["903.27"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : ["3135 P001","4222570 M91"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1505": {
+			"model": "PERKINS",
+			"modelno": ["4.212 / 4.236 / 6.354","MF 165 /265 /275","J C B"],
+			"cylinder" : "4",
+			"diamm": "97.600",
+			"refno" : ["31358393","734644 M1","KS # 88 355 190"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1506": {
+			"model": "PERKINS",
+			"modelno": ["4.212 / 4.236 / 6.354","MF 165 /265 /275","J C B"],
+			"cylinder" : "4",
+			"diamm": "98.480",
+			"refno" : ["31358341","31358394","744948 M1","KS # 88 356 110"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1507": {
+			"model": "PERKINS",
+			"modelno": ["AT 4.236","T 4.236","AD 4.236"],
+			"cylinder" : "4",
+			"diamm": "97.600",
+			"refno" : ["3135X031","KS # 89 514 190","3637331 M1"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1508": {
+			"model": "PERKINS",
+			"modelno": ["AT 4.236","T 4.236","AD 4.236"],
+			"cylinder" : "4",
+			"diamm": "98.480",
+			"refno" : ["3135X032","3637332 M1"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1509": {
+			"model": "PERKINS",
+			"modelno": ["A 4.41 / 1004.4 THR","PHASER 110T/160T","MF 4225/4235/6110"],
+			"cylinder" : "4/6",
+			"diamm": "99.000",
+			"refno" : ["3135X041","748215 M1","KS # 89 320 190"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1510": {
+			"model": "PERKINS",
+			"modelno": ["A 4.41 / 1004.4 THR","PHASER 110T/160T","MF 4225/4235/6110"],
+			"cylinder" : "4/6",
+			"diamm": "100.000",
+			"refno" : ["3135X042","748216 M1","KS # 89 320 110"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1511": {
+			"model": "PERKINS",
+			"modelno": ["1004.4 GREEN","PHASER 110T/160T","MF 374/3220/6235"],
+			"cylinder" : "4/6",
+			"diamm": "99.000",
+			"refno" : ["3135X063","4222129 M1","KS # 89 527 190"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1512": {
+			"model": "PERKINS",
+			"modelno": ["1004.4 GREEN","PHASER 110T/160T","MF 374/3220/6235"],
+			"cylinder" : "4/6",
+			"diamm": "100.000",
+			"refno" : ["3135X062","4222128 M1"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1513": {
+			"model": "PERKINS",
+			"modelno": ["AD 4.248","6.372"],
+			"cylinder" : "4/6",
+			"diamm": "100.050",
+			"refno" : ["31358346","740571 M1"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1514": {
+			"model": "PERKINS",
+			"modelno": ["AD 4.248","6.372"],
+			"cylinder" : "4/6",
+			"diamm": "101.050",
+			"refno" : ["3135X034","31358352","752466 M1"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-S3-FF.jpg"
+		},
+		"PL-S-1515": {
+			"model": "PERKINS",
+			"modelno": ["3135X057"],
+			"cylinder" : "4/6",
+			"diamm": "102.000",
+			"refno" : ["3135X057"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1516": {
+			"model": "PERKINS",
+			"modelno": ["3135R080"],
+			"cylinder" : "",
+			"diamm": "104.500",
+			"refno" : ["3135 R080"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1517": {
+			"model": "PERKINS",
+			"modelno": ["1103B","1103C / 1104C","EURO 2"],
+			"cylinder" : "3/4",
+			"diamm": "105.000",
+			"refno" : ["14-020870-00"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1518": {
+			"model": "PERKINS",
+			"modelno": ["1100 SERIES"],
+			"cylinder" : "3/4",
+			"diamm": "105.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1519": {
+			"model": "PERKINS",
+			"modelno": ["31358506"],
+			"cylinder" : "4/6",
+			"diamm": "107.970",
+			"refno" : ["31358506","SJ 351207"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1520": {
+			"model": "PERKINS",
+			"modelno": ["4.318"],
+			"cylinder" : "4/6",
+			"diamm": "114.310",
+			"refno" : ["31358534","SJ 351192"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1521": {
+			"model": "PERKINS",
+			"modelno": [""],
+			"cylinder" : "4/6",
+			"diamm": "116.560",
+			"refno" : ["0635 A"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/PERKINS/PERKINS-116.560.jpg"
+		},
+		"PL-S-1522": {
+			"model": "PERKINS",
+			"modelno": [""],
+			"cylinder" : "4/6",
+			"diamm": "130.175",
+			"refno" : ["OE 52515"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1523": {
+			"model": "PERKINS",
+			"modelno": [""],
+			"cylinder" : "4/6",
+			"diamm": "135.000",
+			"refno" : ["CV 19912"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1524": {
+			"model": "PERKINS",
+			"modelno": [""],
+			"cylinder" : "4/6",
+			"diamm": "139.700",
+			"refno" : ["197-9348"],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1525": {
+			"model": "PEUGEOT",
+			"modelno": ["TU 9M","TU 9M / Z"],
+			"cylinder" : "",
+			"diamm": "70.00",
+			"refno" : ["62945 220","KS # 89 438 110"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1526": {
+			"model": "PEUGEOT",
+			"modelno": ["TU 1K / 1M","XW 3 / 3S","TU 1","104 1.1 / 205 1.1","106 1.1 / 206. 1.1"],
+			"cylinder" : "4",
+			"diamm": "72.00",
+			"refno" : ["03-69260-600","KS # 89 194 110","14-636740-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1527": {
+			"model": "PEUGEOT",
+			"modelno": ["206","307","1007 1.4 HDi"],
+			"cylinder" : "4",
+			"diamm": "73.70",
+			"refno" : ["14-020760-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1528": {
+			"model": "PEUGEOT",
+			"modelno": ["206 / 306","307 / 407","PARTNER 9HT  EURO4"],
+			"cylinder" : "4",
+			"diamm": "75.00",
+			"refno" : ["14-020900-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1529": {
+			"model": "PEUGEOT",
+			"modelno": ["306 / 309","205 / 405","TU3M / TU3MC","TU35","106"],
+			"cylinder" : "4",
+			"diamm": "75.00",
+			"refno" : ["14-636600-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1530": {
+			"model": "PEUGEOT",
+			"modelno": ["XUD 7","205 / 305","309"],
+			"cylinder" : "4",
+			"diamm": "80.00",
+			"refno" : ["KS # 89 316 190","14-024830-00","CH 2333100"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1531": {
+			"model": "PEUGEOT",
+			"modelno": ["XUD 7","205 / 305","309"],
+			"cylinder" : "4",
+			"diamm": "80.00",
+			"refno" : ["14-024740-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1532": {
+			"model": "PEUGEOT",
+			"modelno": ["DW8","DW8 B","XUD 9AY"],
+			"cylinder" : "4",
+			"diamm": "82.20",
+			"refno" : ["KS # 89 592 190"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1533": {
+			"model": "PEUGEOT",
+			"modelno": ["206","306","EXPERT BOX"],
+			"cylinder" : "4",
+			"diamm": "82.00",
+			"refno" : ["CH 2334"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1534": {
+			"model": "PEUGEOT",
+			"modelno": ["206","306","EXPERT BOX"],
+			"cylinder" : "4",
+			"diamm": "82.20",
+			"refno" : ["14-020290-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1535": {
+			"model": "PEUGEOT",
+			"modelno": ["XUD9BSD","XUD9SD","XUD9TE"],
+			"cylinder" : "4",
+			"diamm": "83.00",
+			"refno" : ["14-020530-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1536": {
+			"model": "PEUGEOT",
+			"modelno": ["BOXER BOX 2.2 HDi","BOXER BUS 2.2 HDi"],
+			"cylinder" : "4",
+			"diamm": "86.00",
+			"refno" : ["14-021120-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1537": {
+			"model": "PEUGEOT",
+			"modelno": ["404","XDP 4.88","XD 4.88","XD 88"],
+			"cylinder" : "4",
+			"diamm": "88.00",
+			"refno" : ["KS # 88 524 110"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1538": {
+			"model": "PEUGEOT",
+			"modelno": ["504","XD 90","XDP 90"],
+			"cylinder" : "4/6",
+			"diamm": "90.00",
+			"refno" : ["KS # 88 510 110","14-604060-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1539": {
+			"model": "PEUGEOT",
+			"modelno": ["CRD 93","CRD 93L","U25 /651"],
+			"cylinder" : "4/6",
+			"diamm": "93.00",
+			"refno" : ["CH 2403-100","KS # 89 073 190"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1540": {
+			"model": "PEUGEOT",
+			"modelno": ["XD2","XD2P / XD 94","XD 2S","XD 3T","XD 3TE","XD 3P"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : ["14-020660-00","KS # 89 033 190","CH 2315-100"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1541": {
+			"model": "PEUGEOT",
+			"modelno": ["XD2","XD2P / XD 94","XD 2S","XD 3T","XD 3TE","XD 3P"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : ["14-021520-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1542": {
+			"model": "PEUGEOT",
+			"modelno": ["XD2","XD2P / XD 94","XD 2S","XD 3T","XD 3TE","XD 3P"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : ["KS # 89 412 190"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1543": {
+			"model": "PEUGEOT",
+			"modelno": ["XD2","XD2P / XD 94","XD 2S","XD 3T","XD 3TE","XD 3P"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : ["CH 2311-100"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1544": {
+			"model": "PEUGEOT",
+			"modelno": ["8140.43N","8140.43S EURO 3"],
+			"cylinder" : "4",
+			"diamm": "94.40",
+			"refno" : ["KS # 89 502 190","14-028930-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1545": {
+			"model": "RENAULT/RVI",
+			"modelno": ["6.288"],
+			"cylinder" : "6",
+			"diamm": "88.925",
+			"refno" : ["KS # 88 364 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1546": {
+			"model": "RENAULT/RVI",
+			"modelno": ["8140.58U","8140.61.235","8140.68 U","8140.61.200"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : ["KS # 88 183 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1547": {
+			"model": "RENAULT/RVI",
+			"modelno": ["8140.58U","8140.61.235","8140.68 U","8140.61.200"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : ["KS # 89 183 191"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1548": {
+			"model": "RENAULT/RVI",
+			"modelno": ["8140.58U","8140.61.235","8140.68 U","8140.61.200"],
+			"cylinder" : "6",
+			"diamm": "93.000",
+			"refno" : ["KS # 89 066 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/LAND ROVER/LAND-ROVER.jpg"
+		},
+		"PL-S-1549": {
+			"model": "RENAULT/RVI",
+			"modelno": ["8140.27.2582","8140.27.2700"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : ["KS # 88 319 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1550": {
+			"model": "RENAULT/RVI",
+			"modelno": ["8140.27.2582","8140.27.2700"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : ["KS # 89 319 191"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1551": {
+			"model": "RENAULT/RVI",
+			"modelno": ["8140.27.2582","8140.27.2700"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : ["KS # 89 319 192"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1552": {
+			"model": "RENAULT/RVI",
+			"modelno": ["8140.27.2582","8140.27.2700"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : ["KS # 89 319 193"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1553": {
+			"model": "RENAULT/RVI",
+			"modelno": ["8140.43.3700 EURO 2","S9W EURO 2"],
+			"cylinder" : "4",
+			"diamm": "94.400",
+			"refno" : ["KS # 89 502 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1554": {
+			"model": "RENAULT/RVI",
+			"modelno": ["A 4.236"],
+			"cylinder" : "4",
+			"diamm": "98.480",
+			"refno" : ["KS # 89 355 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1555": {
+			"model": "RENAULT/RVI",
+			"modelno": ["A 4.236"],
+			"cylinder" : "4",
+			"diamm": "98.480",
+			"refno" : ["KS # 89 514 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1556": {
+			"model": "RENAULT/RVI",
+			"modelno": ["712","714"],
+			"cylinder" : "4",
+			"diamm": "98.000",
+			"refno" : ["592 WN 08","14.261790.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1557": {
+			"model": "RENAULT/RVI",
+			"modelno": ["712","714"],
+			"cylinder" : "4",
+			"diamm": "98.000",
+			"refno" : ["592 WN 02","14.264190.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1558": {
+			"model": "RENAULT/RVI",
+			"modelno": ["T.440 EURO 1"],
+			"cylinder" : "4",
+			"diamm": "100.000",
+			"refno" : ["KS # 89 527 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1559": {
+			"model": "RENAULT/RVI",
+			"modelno": ["T.440 EURO 1"],
+			"cylinder" : "4",
+			"diamm": "100.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1560": {
+			"model": "RENAULT/RVI",
+			"modelno": ["T.440 EURO 1"],
+			"cylinder" : "4",
+			"diamm": "100.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1561": {
+			"model": "RENAULT/RVI",
+			"modelno": ["797-21","797","798-20","797-20"],
+			"cylinder" : "6",
+			"diamm": "102.000",
+			"refno" : ["KS # 88 670 110","592 WN 06","14.265950.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/RENAULT/Renault-102-LONG.jpg"
+		},
+		"PL-S-1562": {
+			"model": "RENAULT/RVI",
+			"modelno": ["797-21","797","798-20","797-20"],
+			"cylinder" : "6",
+			"diamm": "102.000",
+			"refno" : ["KS # 89 173 110","592 WN 09","15.265960.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/RENAULT/Renault-102-LONG.jpg"
+		},
+		"PL-S-1563": {
+			"model": "RENAULT/RVI",
+			"modelno": ["797-21","797","798-20","797-20"],
+			"cylinder" : "6",
+			"diamm": "102.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/RENAULT/Renault-102-LONG.jpg"
+		},
+		"PL-S-1564": {
+			"model": "RENAULT/RVI",
+			"modelno": ["797-21","797","798-20","797-20"],
+			"cylinder" : "6",
+			"diamm": "102.000",
+			"refno" : [""],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/RENAULT/Renault-102-LONG.jpg"
+		},
+		"PL-S-1565": {
+			"model": "RENAULT/RVI",
+			"modelno": ["MIDR 06.02.21","EURO 1"],
+			"cylinder" : "6",
+			"diamm": "102.000",
+			"refno" : ["592 WN 11","KS # 89 464 110","15.480090.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/RENAULT/Renault-102-LONG.jpg"
+		},
+		"PL-S-1566": {
+			"model": "RENAULT/RVI",
+			"modelno": ["D 226-3","D 226-4","D 226-6"],
+			"cylinder" : "3/4/6",
+			"diamm": "105.000",
+			"refno" : ["KS # 88 635 190"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/MAN/MAN-108.JPG"
+		},
+		"PL-S-1567": {
+			"model": "RENAULT/RVI",
+			"modelno": ["MIDR 06.2045","MIDR 06.20.30"],
+			"cylinder" : "6",
+			"diamm": "120.000",
+			"refno" : ["209 WN 13","KS # 89 077 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/RENAULT/RENAULT-120MM.jpg"
+		},
+		"PL-S-1568": {
+			"model": "RENAULT/RVI",
+			"modelno": ["MIDR 06.2045","MIDR 06.20.30"],
+			"cylinder" : "6",
+			"diamm": "120.000",
+			"refno" : ["209 WN 12","KS # 89 078 110","15.480050.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/RENAULT/RENAULT-120MM.jpg"
+		},
+		"PL-S-1569": {
+			"model": "RENAULT/RVI",
+			"modelno": ["M 420","M 520","M 620"],
+			"cylinder" : "6",
+			"diamm": "120.000",
+			"refno" : ["209 WN 04","KS # 88 034 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1570": {
+			"model": "RENAULT/RVI",
+			"modelno": ["MIDR 06.23.56","EURO 2"],
+			"cylinder" : "6",
+			"diamm": "123.000",
+			"refno" : ["209 WN 21","KS # 89 588 110","15.450220.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/RENAULT/RENAULT-123.jpg"
+		},
+		"PL-S-1571": {
+			"model": "RENAULT/RVI",
+			"modelno": ["MIDS 620.45"],
+			"cylinder" : "3/4/6",
+			"diamm": "135.000",
+			"refno" : ["209 WT 07","KS # 88 031 110","14.020510.00"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1572": {
+			"model": "RENAULT/RVI",
+			"modelno": ["340"],
+			"cylinder" : "3/4/6",
+			"diamm": "135.000",
+			"refno" : ["209 WT 15","KS # 89 085 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1573": {
+			"model": "RENAULT/RVI",
+			"modelno": ["MIDS 06.35.40","385"],
+			"cylinder" : "6",
+			"diamm": "135.000",
+			"refno" : ["209 WT 18","KS # 89 451 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/DAF/DAF-130.JPG"
+		},
+		"PL-S-1574": {
+			"model": "SCANIA",
+			"modelno": ["D8/DSI8/DN8","DS9 EURO 1","DS 8","DN 9/DS 9"],
+			"cylinder" : "6",
+			"diamm": "115.000",
+			"refno" : ["245 398","3082","061 WN 08","KS # 89 088 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/SCANIA/SCANIA-DS9.jpg"
+		},
+		"PL-S-1575": {
+			"model": "SCANIA",
+			"modelno": ["DSC 9","DS 9","DSC 9 EURO 1"],
+			"cylinder" : "6",
+			"diamm": "115.000",
+			"refno" : ["1 319 247-1","4607","061 WN 11","KS # 89 385 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1576": {
+			"model": "SCANIA",
+			"modelno": ["DC9 EURO 3","DSC9 EURO 2"],
+			"cylinder" : "6",
+			"diamm": "115.000",
+			"refno" : ["601 WN 25","KS # 89 844 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1577": {
+			"model": "SCANIA",
+			"modelno": ["DC12 EURO 3","DSC 12 EURO 2/3","DC 16 EURO 3","DT 12","DC 11 / DC 9"],
+			"cylinder" : "6",
+			"diamm": "127.000",
+			"refno" : ["061 WN 17","KS # 89 541 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1578": {
+			"model": "SCANIA",
+			"modelno": ["DS 11","DSC 11"],
+			"cylinder" : "6",
+			"diamm": "127.000",
+			"refno" : ["061 WN 09","KS # 89 367 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1579": {
+			"model": "SCANIA",
+			"modelno": ["DS 11","DSC 11"],
+			"cylinder" : "6",
+			"diamm": "127.000",
+			"refno" : ["061 WN 09","KS # 89 414 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1580": {
+			"model": "SCANIA",
+			"modelno": ["DSI 14","DS 14","DSC 14"],
+			"cylinder" : "6",
+			"diamm": "127.000",
+			"refno" : ["061 WN 13","KS # 89 568 110"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1581": {
+			"model": "SCANIA",
+			"modelno": ["DSI 14","DS 14","DSC 14"],
+			"cylinder" : "6",
+			"diamm": "127.000",
+			"refno" : ["061 WN 21"],
+			"category" : ["BUS","TRUCK"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1586": {
+			"model": "SSANGYONG",
+			"modelno": ["KORANDO 2.9D","OM 662","MUSSO 2.9 D"],
+			"cylinder" : "5",
+			"diamm": "89.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1587": {
+			"model": "SSANGYONG",
+			"modelno": ["KORANDO 2.3D","OM 601.940","ISTANA 2.9","MUSSO 2.34"],
+			"cylinder" : "4/5",
+			"diamm": "89.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1588": {
+			"model": "SSANGYONG",
+			"modelno": ["KORANDO 2.3D","OM 601.940","ISTANA 2.9","MUSSO 2.34"],
+			"cylinder" : "4/5",
+			"diamm": "89.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1589": {
+			"model": "SSANGYONG",
+			"modelno": ["KORANDO XD3T","XD3T E"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1590": {
+			"model": "SSANGYONG",
+			"modelno": ["KORANDO XD3T","XD3T E"],
+			"cylinder" : "4",
+			"diamm": "94.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1591": {
+			"model": "SEAT",
+			"modelno": ["IBIZA","MARBELLA"],
+			"cylinder" : "",
+			"diamm": "65.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1592": {
+			"model": "SEAT",
+			"modelno": ["TERRA 1.4D","CORDOBA 1.0","1W/AA4/AAV/MN"],
+			"cylinder" : "",
+			"diamm": "75.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1593": {
+			"model": "SEAT",
+			"modelno": ["CORDOBA 1.6","IBIZA 1.6","AROSA 1.4"],
+			"cylinder" : "",
+			"diamm": "76.50",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1594": {
+			"model": "SEAT",
+			"modelno": ["CORDOBA 1.6","IBIZA 1.6","AROSA 1.4"],
+			"cylinder" : "",
+			"diamm": "76.50",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1595": {
+			"model": "SEAT",
+			"modelno": ["CORDPBA 1.9D","IBIZA 1.9D / LEON 1.9","TOLEDO 1.9 / 1Z"],
+			"cylinder" : "",
+			"diamm": "79.50",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1596": {
+			"model": "SEAT",
+			"modelno": ["IBIZA 1.7D/MALAGA","RITMO 1.7D/RONDA"],
+			"cylinder" : "",
+			"diamm": "83.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1597": {
+			"model": "SEAT",
+			"modelno": ["131 2.4 DIESEL","8144.61"],
+			"cylinder" : "",
+			"diamm": "93.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1598": {
+			"model": "SEAT",
+			"modelno": ["131 2.4 DIESEL","8144.61"],
+			"cylinder" : "",
+			"diamm": "93.00",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1599": {
+			"model": "SKODA",
+			"modelno": ["FABIA 1.6 / GLX","OCTAVIA 1.6"],
+			"cylinder" : "",
+			"diamm": "76.50",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1600": {
+			"model": "SKODA",
+			"modelno": ["FABIA 1.6 / GLX","OCTAVIA 1.6"],
+			"cylinder" : "",
+			"diamm": "76.50",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1601": {
+			"model": "SKODA",
+			"modelno": ["FABIA 1.9 D","OCTAVIA 1.9D","SUPERB 1.9"],
+			"cylinder" : "",
+			"diamm": "79.50",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1602": {
+			"model": "SONALIKA",
+			"modelno": [""],
+			"cylinder" : "3",
+			"diamm": "92.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1603": {
+			"model": "SONALIKA",
+			"modelno": [""],
+			"cylinder" : "3",
+			"diamm": "95.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1604": {
+			"model": "SONALIKA",
+			"modelno": [""],
+			"cylinder" : "3",
+			"diamm": "97.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1605": {
+			"model": "SONALIKA",
+			"modelno": [""],
+			"cylinder" : "3",
+			"diamm": "100.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1606": {
+			"model": "SONALIKA",
+			"modelno": [""],
+			"cylinder" : "3",
+			"diamm": "102.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},	
+		"PL-S-1607": {
+			"model": "SONALIKA",
+			"modelno": [""],
+			"cylinder" : "3",
+			"diamm": "105.000",
+			"refno" : [""],
+			"category" : ["TRACTOR"],
+			"image" : "../images/products/SONALIKA/SONALIKA-105mm.JPG"
+		},
+		"PL-S-1608": {
+			"model": "TALBOT",
+			"modelno": ["HORIZON 1.9D","XUD9/XUD9A"],
+			"cylinder" : "",
+			"diamm": "83.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1609": {
+			"model": "TALBOT",
+			"modelno": ["M25/648","EXPRESS","290/310/350"],
+			"cylinder" : "",
+			"diamm": "93.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1610": {
+			"model": "TALBOT",
+			"modelno": ["TAGORA 2.3D","XD2S"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1611": {
+			"model": "TALBOT",
+			"modelno": ["TAGORA 2.3D","XD2S"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1612": {
+			"model": "TOYOTA",
+			"modelno": ["1E"],
+			"cylinder" : "",
+			"diamm": "70.500",
+			"refno" : ["11461-10080"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1613": {
+			"model": "TOYOTA",
+			"modelno": ["2K"],
+			"cylinder" : "",
+			"diamm": "72.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1614": {
+			"model": "TOYOTA",
+			"modelno": ["2E"],
+			"cylinder" : "",
+			"diamm": "73.000",
+			"refno" : ["11461-11030"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1615": {
+			"model": "TOYOTA",
+			"modelno": ["2E-L"],
+			"cylinder" : "",
+			"diamm": "73.000",
+			"refno" : ["11461-11040"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1616": {
+			"model": "TOYOTA",
+			"modelno": ["1N"],
+			"cylinder" : "",
+			"diamm": "74.000",
+			"refno" : ["11461-55010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1617": {
+			"model": "TOYOTA",
+			"modelno": ["2M","4K"],
+			"cylinder" : "",
+			"diamm": "75.000",
+			"refno" : ["11461-13010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1618": {
+			"model": "TOYOTA",
+			"modelno": ["1GE","3K"],
+			"cylinder" : "",
+			"diamm": "75.000",
+			"refno" : ["11461-24010","11461-24012"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1619": {
+			"model": "TOYOTA",
+			"modelno": ["2A-L"],
+			"cylinder" : "",
+			"diamm": "76.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1620": {
+			"model": "TOYOTA",
+			"modelno": ["2P"],
+			"cylinder" : "",
+			"diamm": "76.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1621": {
+			"model": "TOYOTA",
+			"modelno": ["2P/3P"],
+			"cylinder" : "",
+			"diamm": "76.000",
+			"refno" : ["11461-21010/2310"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1622": {
+			"model": "TOYOTA",
+			"modelno": ["1A/3A"],
+			"cylinder" : "",
+			"diamm": "77.500",
+			"refno" : ["11461-15010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1623": {
+			"model": "TOYOTA",
+			"modelno": ["2R"],
+			"cylinder" : "",
+			"diamm": "78.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1624": {
+			"model": "TOYOTA",
+			"modelno": ["2R"],
+			"cylinder" : "",
+			"diamm": "78.000",
+			"refno" : ["11461-15010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1625": {
+			"model": "TOYOTA",
+			"modelno": ["5A/5AE"],
+			"cylinder" : "",
+			"diamm": "78.700",
+			"refno" : ["11461140"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1626": {
+			"model": "TOYOTA",
+			"modelno": ["1S","5K"],
+			"cylinder" : "",
+			"diamm": "80.500",
+			"refno" : ["11461-13040"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1627": {
+			"model": "TOYOTA",
+			"modelno": ["5K"],
+			"cylinder" : "",
+			"diamm": "80.500",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1628": {
+			"model": "TOYOTA",
+			"modelno": ["7K"],
+			"cylinder" : "",
+			"diamm": "80.500",
+			"refno" : ["11461-13080"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1629": {
+			"model": "TOYOTA",
+			"modelno": ["12R"],
+			"cylinder" : "",
+			"diamm": "80.500",
+			"refno" : ["11461-31020","SU4264"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1630": {
+			"model": "TOYOTA",
+			"modelno": ["4A/4AE/GE"],
+			"cylinder" : "",
+			"diamm": "81.000",
+			"refno" : ["11461-16010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1631": {
+			"model": "TOYOTA",
+			"modelno": ["4A"],
+			"cylinder" : "",
+			"diamm": "81.000",
+			"refno" : ["11461-16010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1632": {
+			"model": "TOYOTA",
+			"modelno": ["5M-E/GE"],
+			"cylinder" : "",
+			"diamm": "82.200",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1633": {
+			"model": "TOYOTA",
+			"modelno": ["1C"],
+			"cylinder" : "",
+			"diamm": "83.000",
+			"refno" : ["11461-64010","11461-64011"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1634": {
+			"model": "TOYOTA",
+			"modelno": ["21 R"],
+			"cylinder" : "",
+			"diamm": "84.000",
+			"refno" : ["11461-37010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1635": {
+			"model": "TOYOTA",
+			"modelno": ["21R","CRESIDA"],
+			"cylinder" : "",
+			"diamm": "84.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1636": {
+			"model": "TOYOTA",
+			"modelno": ["2T/2TB","3TB"],
+			"cylinder" : "",
+			"diamm": "85.000",
+			"refno" : ["11461-26010","11461-25010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1637": {
+			"model": "TOYOTA",
+			"modelno": ["1Y"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : ["11461-71010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1638": {
+			"model": "TOYOTA",
+			"modelno": ["2Y"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : ["11462-72010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1639": {
+			"model": "TOYOTA",
+			"modelno": ["2C-170L","2C","2C-154L"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : ["11461-64090","11461-64090","11461-66060-90"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1640": {
+			"model": "TOYOTA",
+			"modelno": ["3Y"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : ["11461-73010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1641": {
+			"model": "TOYOTA",
+			"modelno": ["6R/7R/8R"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1642": {
+			"model": "TOYOTA",
+			"modelno": ["2S/3S"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : ["11461-61030"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1643": {
+			"model": "TOYOTA",
+			"modelno": ["1RZ"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : ["11461-75010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1644": {
+			"model": "TOYOTA",
+			"modelno": ["1DZ"],
+			"cylinder" : "",
+			"diamm": "86.000",
+			"refno" : ["11461-78020"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1645": {
+			"model": "TOYOTA",
+			"modelno": ["20R"],
+			"cylinder" : "",
+			"diamm": "88.500",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1646": {
+			"model": "TOYOTA",
+			"modelno": ["5R"],
+			"cylinder" : "",
+			"diamm": "88.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1647": {
+			"model": "TOYOTA",
+			"modelno": ["H","2J"],
+			"cylinder" : "",
+			"diamm": "88.000",
+			"refno" : ["11461-48010-11","11461-47011","SU351242"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1648": {
+			"model": "TOYOTA",
+			"modelno": ["18R"],
+			"cylinder" : "",
+			"diamm": "88.500",
+			"refno" : ["11461-34010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1649": {
+			"model": "TOYOTA",
+			"modelno": ["18R"],
+			"cylinder" : "",
+			"diamm": "88.500",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1650": {
+			"model": "TOYOTA",
+			"modelno": ["F"],
+			"cylinder" : "",
+			"diamm": "90.000",
+			"refno" : ["11461-60010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1651": {
+			"model": "TOYOTA",
+			"modelno": ["L"],
+			"cylinder" : "",
+			"diamm": "90.000",
+			"refno" : ["SU351227"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1652": {
+			"model": "TOYOTA",
+			"modelno": ["L"],
+			"cylinder" : "",
+			"diamm": "90.000",
+			"refno" : ["11461-54010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1653": {
+			"model": "TOYOTA",
+			"modelno": ["2H"],
+			"cylinder" : "",
+			"diamm": "91.000",
+			"refno" : ["11461-68010","SU351264"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1654": {
+			"model": "TOYOTA",
+			"modelno": ["4Y"],
+			"cylinder" : "",
+			"diamm": "91.000",
+			"refno" : ["11461-73030"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1655": {
+			"model": "TOYOTA",
+			"modelno": ["12H"],
+			"cylinder" : "",
+			"diamm": "91.000",
+			"refno" : ["11460-68010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1656": {
+			"model": "TOYOTA",
+			"modelno": ["22R"],
+			"cylinder" : "",
+			"diamm": "92.000",
+			"refno" : ["11461-37010","11461-35020"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1657": {
+			"model": "TOYOTA",
+			"modelno": ["2L"],
+			"cylinder" : "",
+			"diamm": "92.000",
+			"refno" : ["11461-54060","SU351305"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1658": {
+			"model": "TOYOTA",
+			"modelno": ["2L","2L NEW"],
+			"cylinder" : "",
+			"diamm": "92.000",
+			"refno" : ["11461-54050","SU351272","11462-54070"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1659": {
+			"model": "TOYOTA",
+			"modelno": ["2LT"],
+			"cylinder" : "",
+			"diamm": "92.000",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1660": {
+			"model": "TOYOTA",
+			"modelno": ["1HZ"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : ["11462-17010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1661": {
+			"model": "TOYOTA",
+			"modelno": ["BU60"],
+			"cylinder" : "",
+			"diamm": "94.250",
+			"refno" : ["11461-56031"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1662": {
+			"model": "TOYOTA",
+			"modelno": ["2F"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : ["11461-61010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1663": {
+			"model": "TOYOTA",
+			"modelno": ["1PZ"],
+			"cylinder" : "",
+			"diamm": "94.000",
+			"refno" : ["11461-17010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1664": {
+			"model": "TOYOTA",
+			"modelno": ["BU30"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : ["11461-56021"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1665": {
+			"model": "TOYOTA",
+			"modelno": ["11B/B","DYNA3000","TOYOACE"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : ["11461-56030","SU351323","11461-56010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1666": {
+			"model": "TOYOTA",
+			"modelno": ["BU30"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : ["11461-78300","SU351232"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1667": {
+			"model": "TOYOTA",
+			"modelno": ["B"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : ["11461-56010"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1668": {
+			"model": "TOYOTA",
+			"modelno": ["3L"],
+			"cylinder" : "",
+			"diamm": "96.000",
+			"refno" : ["11461-54090","11461-54100"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1669": {
+			"model": "TOYOTA",
+			"modelno": ["1Z"],
+			"cylinder" : "",
+			"diamm": "96.000",
+			"refno" : ["11461-78300-1","11461-78300"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1670": {
+			"model": "TOYOTA",
+			"modelno": ["2B"],
+			"cylinder" : "",
+			"diamm": "98.000",
+			"refno" : ["11461-57010","SU351299"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1671": {
+			"model": "TOYOTA",
+			"modelno": ["2Z"],
+			"cylinder" : "",
+			"diamm": "98.000",
+			"refno" : ["11461-78400"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1672": {
+			"model": "TOYOTA",
+			"modelno": ["5L"],
+			"cylinder" : "",
+			"diamm": "98.700",
+			"refno" : [""],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1673": {
+			"model": "TOYOTA",
+			"modelno": ["5L"],
+			"cylinder" : "",
+			"diamm": "99.500",
+			"refno" : ["11461-54120"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1674": {
+			"model": "TOYOTA",
+			"modelno": ["3B","13B"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : ["11461-58020","SU351238","11461-58020","SU351238"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1675": {
+			"model": "TOYOTA",
+			"modelno": ["14B"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : ["11461-58040"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1676": {
+			"model": "TOYOTA",
+			"modelno": ["14B"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : ["11461-58040","11461-58041"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1677": {
+			"model": "TOYOTA",
+			"modelno": ["1W"],
+			"cylinder" : "",
+			"diamm": "104.000",
+			"refno" : ["11461-78020"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1678": {
+			"model": "TOYOTA",
+			"modelno": ["2D-0"],
+			"cylinder" : "",
+			"diamm": "105.000",
+			"refno" : ["11461-77040"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1679": {
+			"model": "TOYOTA",
+			"modelno": ["15B"],
+			"cylinder" : "",
+			"diamm": "108.000",
+			"refno" : ["11461-58090"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1680": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["POLO-1.4D","GOLF1.3","JETTA II-1.3","HK/HZ"],
+			"cylinder" : "4",
+			"diamm": "75.000",
+			"refno" : ["14-025070-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1681": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["SANTANA1.6D","GOLF","LT28.35-2.4D","PASSAT1.6D","VENTO1.6","1G/1V/CY/JR","1G/1V/CY/JR"],
+			"cylinder" : "4",
+			"diamm": "76.500",
+			"refno" : ["14-021571-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1682": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["SANTANA1.6D","GOLF","LT28.35-2.4D","PASSAT1.6D","VENTO1.6","1G/1V/CY/JR","1G/1V/CY/JR"],
+			"cylinder" : "4",
+			"diamm": "76.500",
+			"refno" : ["14-028360-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1683": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["TANSPORTER 1.9D","POLO1.9D","VENTO","CADDY 1.9D","BORA","ACV/AXE/BAC"],
+			"cylinder" : "4",
+			"diamm": "79.500",
+			"refno" : ["14-027950-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1684": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["TRANSPORTER 2.5D","LT28-35","MULTIVAN 2.5D"],
+			"cylinder" : "6",
+			"diamm": "81.000",
+			"refno" : ["14-020420-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1684": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["TRANSPORTER 2.5D","LT28-35","MULTIVAN 2.5D"],
+			"cylinder" : "6",
+			"diamm": "81.000",
+			"refno" : ["14-020420-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1685": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["ACV/AXD"],
+			"cylinder" : "6",
+			"diamm": "81.000",
+			"refno" : ["14-020421-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1686": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["LT28.35","2.7D","CG4-165"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["14-043450-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1687": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["TARO 2.4D","2L"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["14-040130-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1688": {
+			"model": "VOLKSWAGEN",
+			"modelno": ["TARO 2.4D","2L"],
+			"cylinder" : "4",
+			"diamm": "92.000",
+			"refno" : ["14-010850-00"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1689": {
+			"model": "VOLVO",
+			"modelno": ["D 24"],
+			"cylinder" : "6",
+			"diamm": "76.500",
+			"refno" : ["KS # 89 049 190"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1690": {
+			"model": "VOLVO",
+			"modelno": ["D 16"],
+			"cylinder" : "4",
+			"diamm": "78.000",
+			"refno" : ["KS # 89 318 190"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1691": {
+			"model": "VOLVO",
+			"modelno": ["TD 23"],
+			"cylinder" : "",
+			"diamm": "88.000",
+			"refno" : ["KS # 89 318 190"],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1692": {
+			"model": "VOLVO",
+			"modelno": ["TD 41","TD 40","MD 40","TMD 40"],
+			"cylinder" : "6",
+			"diamm": "92.000",
+			"refno" : ["037 WN 20","KS # 89 162 110"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1693": {
+			"model": "VOLVO",
+			"modelno": ["TD 27"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : [""],
+			"image" : "../images/products/PERKINS/PERKINS-313538346.jpg"
+		},
+		"PL-S-1694": {
+			"model": "VOLVO",
+			"modelno": ["TD 60","TD 61"],
+			"cylinder" : "6",
+			"diamm": "98.430",
+			"refno" : ["037 WN 27","KS # 89 352 110","420 534"],
+			"image" : "../images/products/VOLVO/VOLVO-TD-61.jpg"
+		},
+		"PL-S-1695": {
+			"model": "VOLVO",
+			"modelno": ["TD 71","TD 70"],
+			"cylinder" : "6",
+			"diamm": "104.775",
+			"refno" : ["471710 / 471713","037 WN 26","KS # 89 370 110","15-458910-00","4608"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1696": {
+			"model": "VOLVO",
+			"modelno": ["TD 71","TD 70"],
+			"cylinder" : "6",
+			"diamm": "104.775",
+			"refno" : ["037 WN 42"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1697": {
+			"model": "VOLVO",
+			"modelno": ["GH 10 EURO 4","TD 102 / TD 103","D 10 / DH 10 / GH 10","EURO 2","FL 10"],
+			"cylinder" : "6",
+			"diamm": "120.650",
+			"refno" : ["037 WN 29","KS # 89 431 110","15-459230-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1698": {
+			"model": "VOLVO",
+			"modelno": ["THD 100 / 101 / 102","TD 100 / 101 / 102","TD 100 B / G"],
+			"cylinder" : "6",
+			"diamm": "120.650",
+			"refno" : ["4717","037 WN 34","KS # 89 427 110","14-458170-00"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1699": {
+			"model": "VOLVO",
+			"modelno": ["TD 120 / TMD 120","TMD 120A","TD 122"],
+			"cylinder" : "6",
+			"diamm": "130.175",
+			"refno" : ["14-450530-00","KS # 89 084 110","037 WN 22"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1700": {
+			"model": "VOLVO",
+			"modelno": ["TD 121","TMD 120A","TD 122"],
+			"cylinder" : "6",
+			"diamm": "130.175",
+			"refno" : ["15-458840-00","KS # 89 399 110","037 WN 30"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1701": {
+			"model": "VOLVO",
+			"modelno": ["TD 20","D12 / B / C"],
+			"cylinder" : "6",
+			"diamm": "131.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1702": {
+			"model": "VOLVO",
+			"modelno": ["TD 162"],
+			"cylinder" : "",
+			"diamm": "144.000",
+			"refno" : ["037 WN 32","KS # 89 368 110"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1703": {
+			"model": "WOLSELEY",
+			"modelno": ["A SR. HORNET MK I"],
+			"cylinder" : "",
+			"diamm": "62.916",
+			"refno" : ["SU2893"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1704": {
+			"model": "WOLSELEY",
+			"modelno": ["A SR.MK II","III"],
+			"cylinder" : "",
+			"diamm": "64.567",
+			"refno" : ["SU3367"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1705": {
+			"model": "WOLSELEY",
+			"modelno": ["A SR.","1300MKI","II"],
+			"cylinder" : "",
+			"diamm": "70.625",
+			"refno" : ["SU3598"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1706": {
+			"model": "WOLSELEY",
+			"modelno": ["B SR"],
+			"cylinder" : "",
+			"diamm": "76.187",
+			"refno" : ["SU3270"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1707": {
+			"model": "WOLSELEY",
+			"modelno": ["E SR. OHC"],
+			"cylinder" : "",
+			"diamm": "76.200",
+			"refno" : ["SU4245"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1708": {
+			"model": "WOLSELEY",
+			"modelno": ["B SR"],
+			"cylinder" : "",
+			"diamm": "80.251",
+			"refno" : ["SU351084"],
+			"category" : ["CAR"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1709": {
+			"model": "YANMAR",
+			"modelno": ["3TN 68"],
+			"cylinder" : "",
+			"diamm": "68.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1710": {
+			"model": "YANMAR",
+			"modelno": ["TS 50","TH 3"],
+			"cylinder" : "1",
+			"diamm": "70.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1711": {
+			"model": "YANMAR",
+			"modelno": ["3TN 72"],
+			"cylinder" : "3",
+			"diamm": "72.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1712": {
+			"model": "YANMAR",
+			"modelno": ["3TN 75"],
+			"cylinder" : "3",
+			"diamm": "75.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1713": {
+			"model": "YANMAR",
+			"modelno": ["TS 60","TH 4"],
+			"cylinder" : "1",
+			"diamm": "75.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1714": {
+			"model": "YANMAR",
+			"modelno": ["D 5","F 5"],
+			"cylinder" : "1",
+			"diamm": "75.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1715": {
+			"model": "YANMAR",
+			"modelno": ["TF 55"],
+			"cylinder" : "1",
+			"diamm": "75.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1716": {
+			"model": "YANMAR",
+			"modelno": ["TF 65"],
+			"cylinder" : "1",
+			"diamm": "78.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1717": {
+			"model": "YANMAR",
+			"modelno": ["3TN 78"],
+			"cylinder" : "3",
+			"diamm": "78.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1718": {
+			"model": "YANMAR",
+			"modelno": ["3TN 79"],
+			"cylinder" : "3",
+			"diamm": "79.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1719": {
+			"model": "YANMAR",
+			"modelno": ["TF 75"],
+			"cylinder" : "1",
+			"diamm": "80.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1720": {
+			"model": "YANMAR",
+			"modelno": ["TF 85"],
+			"cylinder" : "1",
+			"diamm": "85.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1721": {
+			"model": "YANMAR",
+			"modelno": ["TS 105","TH 7"],
+			"cylinder" : "1",
+			"diamm": "85.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1722": {
+			"model": "YANMAR",
+			"modelno": ["TF 105"],
+			"cylinder" : "1",
+			"diamm": "88.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1723": {
+			"model": "YANMAR",
+			"modelno": ["TF 115"],
+			"cylinder" : "1",
+			"diamm": "92.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1724": {
+			"model": "YANMAR",
+			"modelno": ["TS 230"],
+			"cylinder" : "1",
+			"diamm": "112.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1725": {
+			"model": "YANMAR",
+			"modelno": ["2011","3011","5511"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1726": {
+			"model": "YANMAR",
+			"modelno": ["2522"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1727": {
+			"model": "YANMAR",
+			"modelno": ["5911","4701 / 6001 / 6201","6701"],
+			"cylinder" : "3/4",
+			"diamm": "100.000",
+			"refno" : ["KS # 88 829 110","595 WN 02"],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1728": {
+			"model": "YANMAR",
+			"modelno": ["2911"],
+			"cylinder" : "",
+			"diamm": "100.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1729": {
+			"model": "YANMAR",
+			"modelno": ["6911"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : [""],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1730": {
+			"model": "YANMAR",
+			"modelno": ["4901","6901","7701"],
+			"cylinder" : "3/4",
+			"diamm": "102.000",
+			"refno" : ["6901 0168","2904","KS # 89 058 110","595 WN 04"],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1731": {
+			"model": "YANMAR",
+			"modelno": ["8401","8601","8701","8801"],
+			"cylinder" : "3/4/6",
+			"diamm": "110.000",
+			"refno" : ["280 002 002","2841","KS # 88 877 110","595 WN 03"],
+			"category" : ["TRACTOR","EARTH MOVERS","INDUSTRIAL"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1732": {
+			"model": "ZASTAVA",
+			"modelno": ["101-1.1","128A.00-1116CC"],
+			"cylinder" : "",
+			"diamm": "",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1733": {
+			"model": "OTHER",
+			"modelno": ["ROMANIA UTB 650"],
+			"cylinder" : "",
+			"diamm": "108.000",
+			"refno" : [""],
+			"image" : "../images/products/UTB/UTB-650.jpg"
+		},
+		"PL-S-1734": {
+			"model": "OTHER",
+			"modelno": ["PIKASO"],
+			"cylinder" : "",
+			"diamm": "118.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1735": {
+			"model": "OTHER",
+			"modelno": ["PIKASO"],
+			"cylinder" : "",
+			"diamm": "120.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1736": {
+			"model": "OTHER",
+			"modelno": ["NIGATA HS13"],
+			"cylinder" : "",
+			"diamm": "130.000",
+			"refno" : [""],
+			"image" : "../images/products/NIGATA/Nigata.jpg"
+		},
+		"PL-S-1737": {
+			"model": "OTHER",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "80.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1738": {
+			"model": "OTHER",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "85.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1739": {
+			"model": "OTHER",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "87.50",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1740": {
+			"model": "OTHER",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "95.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1741": {
+			"model": "OTHER",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "102.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1742": {
+			"model": "OTHER",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "114.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1743": {
+			"model": "OTHER",
+			"modelno": ["RUSTON"],
+			"cylinder" : "",
+			"diamm": "115.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1744": {
+			"model": "OTHER",
+			"modelno": ["RUSTON"],
+			"cylinder" : "",
+			"diamm": "118.000",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1745": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["PETTER AV1"],
+			"cylinder" : "",
+			"diamm": "80.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1746": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["PETTER JV1"],
+			"cylinder" : "",
+			"diamm": "85.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1747": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["PETTER TV1"],
+			"cylinder" : "",
+			"diamm": "87.50",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1748": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "95.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1749": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "102.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1750": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["PETTER"],
+			"cylinder" : "",
+			"diamm": "114.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1751": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["MERCEDESE"],
+			"cylinder" : "",
+			"diamm": "70.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1752": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["MERCEDESE"],
+			"cylinder" : "",
+			"diamm": "75.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1753": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["MERCEDESE","OM 401/402/403","OM 421/424"],
+			"cylinder" : "",
+			"diamm": "90.00",
+			"refno" : ["KS# 89 440 110","004 WN 05"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1754": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["MERCEDESE","OM 401/402/403","OM 421/424"],
+			"cylinder" : "",
+			"diamm": "90.00",
+			"refno" : ["KS# 89 440 110","004 WN 05"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1755": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["MERCEDESE"],
+			"cylinder" : "",
+			"diamm": "100.00",
+			"refno" : [""],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		},
+		"PL-S-1756": {
+			"model": "AC & WC BLOCK",
+			"modelno": ["MERCEDESE","OM 441/442/443","OM 541/542"],
+			"cylinder" : "",
+			"diamm": "100.00",
+			"refno" : ["KS# 89 529 110","004 WR 17"],
+			"image" : "../images/products/patco_not_avaliable.jpg"
+		}
+	}	

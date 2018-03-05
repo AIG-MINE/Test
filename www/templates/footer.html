@@ -1,0 +1,41 @@
+<div layout="column" class="white-color pd32-TB" style="background-color:#3a3e64" ng-controller="footerController">
+	<div layout="row" layout-wrap>
+		<div flex="10" flex-sm="5" flex-xs="5"></div>
+		<div layout="row" flex layout-wrap layout-align="space-around start">
+			<div flex="35" flex-sm="60" flex-xs="100" layout="column">
+				<p class="md-title">ADDRESS</p>
+				<p class="md-body-1"><b>Patco Liners Pvt. Ltd.</b><br>
+				1, Pranami Estate, Nr. Creata Cold Storage,<br>
+				Odhav,Ahmedabad-382415<br>
+				Gujarat-INDIA</p>
+			</div>
+			<div flex="30" flex-sm="40" flex-xs="100" layout="column">
+				<p class="md-title">CONTACT INFORMATION</p>
+				<p class="md-body-1">Phone :(O) +91 79 22890901<br>
+				Mobile :+91 95109 83323<br>
+				Email :patco@patcoliners.com</p>
+			</div>
+			<div flex="20" flex-sm="60" flex-xs="100" layout="column">
+				<p class="md-title">FOLLOW US</p>
+				<p layout="row">
+					<a ng-href="{{socialMedia.url}}" ng-repeat="socialMedia in followUs" ng-class="{'mrg8-L' : $index>0}">
+						<img ng-src="{{socialMedia.icon}}" alt="{{socialMedia.alt}}" title="{{socialMedia.title}}" class="size-xs">
+					</a>
+				</p>
+			</div>
+			<div flex="15" flex-sm="40" flex-xs="100" layout="column">
+				<p class="md-title">E-Brochure</p>
+				
+					<a ng-href="" ng-class="{'mrg8-L' : $index>0}">
+						<img ng-src="images/icons/if_1-02_511559.png" alt="Download Patco E-Brochure" title="Download Patco E-Brochure" class="size-xl">
+					</a>
+				
+			</div>
+		</div>
+		<div flex="10" flex-sm="5" flex-xs="5"></div>
+	</div>
+</div>
+
+<div layout="column" layout-align="center center" class="pd16" style="background-color: #313455">
+	<p class="md-caption white-color">Copyright © 2017 Patco Liners Pvt Ltd. All Right Reserved</p>
+</div>

@@ -1,0 +1,42 @@
+<div layout="row" layout-align="center center" layout-align-sm="start center"  class="mrg48-LR">
+	<div flex="100" flex-gt-sm="40" layout="row">
+		<md-button ng-show="$state.current.name == 'products'" class="md-icon-button size-md" aria-label="menu" ng-click="toggleSidenav()" hide-gt-sm>
+	      <md-icon md-svg-icon="images/icons/ic_menu_24px.svg" class="size-sm grey-color"></md-icon>
+	    </md-button>
+		<a ui-sref="home"><img src="images/logo.png" alt="Patco"></a>
+	</div>
+	
+	<div flex="60" layout="row" layout-align="end">
+	    <div  hide show-gt-sm>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'home' }" class="white" ui-sref="home">Home</a></span>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'about-us' }" class="white" ui-sref="about-us">About</a></span>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'product' }" class="white" ui-sref="product">Products</a></span>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'products' }" class="white" ui-sref="products({category: 'TRACTOR'})">Search</a></span>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'contact-us' }" class="white" ui-sref="contact-us">Contact</a></span>
+		</div>
+	</div>
+
+	<div id="google_translate_element"></div>
+	<md-menu hide-gt-sm>
+      <md-button aria-label="Open phone interactions menu" class="md-icon-button size-md" ng-click="openMenu($mdOpenMenu, $event)">
+        <md-icon class="size-sm grey-color" md-menu-origin md-svg-icon="images/icons/ic_menu_24px.svg"></md-icon>
+      </md-button>
+      <md-menu-content width="4">
+        <md-menu-item>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'home' }" class="white" ui-sref="home">Home</a></span>
+        </md-menu-item>
+        <md-menu-item>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'about-us' }" class="white" ui-sref="about-us">About</a></span>
+        </md-menu-item>
+        <md-menu-item>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'product' }" class="white" ui-sref="product">Products</a></span>
+        </md-menu-item>
+        <md-menu-item>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'products' }" class="white" ui-sref="products({category: 'TRACTOR'})">Search</a></span>
+        </md-menu-item>                                
+        <md-menu-item>
+			<span class="menu-item"><a ng-class="{'active' : $state.current.name == 'contact-us' }" class="white" ui-sref="contact-us">Contact</a></span>
+        </md-menu-item>
+      </md-menu-content>
+    </md-menu>	
+</div>
